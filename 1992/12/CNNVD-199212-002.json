@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Cisco访问列表漏洞",
+		"cnnvdCode": "CNNVD-199212-002",
+		"cveCode": "CVE-1999-1466",
+		"publishTime": "1992-12-10 00:00:00",
+		"vendor": "1001033",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "Cisco路由器8.2到9.1版本存在漏洞。远程攻击者在以下情况中可以绕过访问控制列表，就是特定的界面使用扩展的IP访问列表，IP路由缓存启用并且访问列表使用\"established\"关键字。",
+		"affectedVendor": "思科",
+		"referUrl": "来源:CERT/CC Advisory: CA-1992-20\n名称: CA-1992-20\n链接:http://www.cert.org/advisories/CA-1992-20.html\n\n来源: BID\n名称: 53\n链接:http://www.securityfocus.com/bid/53",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

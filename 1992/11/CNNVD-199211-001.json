@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "VMS Monitor漏洞",
+		"cnnvdCode": "CNNVD-199211-001",
+		"cveCode": "CVE-1999-1395",
+		"publishTime": "1992-11-17 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "VMS 5.0到5.4-2版本中的Monitor utility (SYS$SHARE:SPISHR.EXE)存在漏洞。本地用户可以借助该漏洞提升特权。",
+		"affectedVendor": "dec",
+		"referUrl": "来源:CERT/CC Advisory: CA-92.16.VMS.Monitor.vulnerability\n名称: CA-92.16\n链接:http://www.cert.org/advisories/CA-92.16.VMS.Monitor.vulnerability\n\n来源:CERT/CC Advisory: CA-1992-18\n名称: CA-1992-18\n链接:http://www.cert.org/advisories/CA-1992-18.html\n\n来源: BID\n名称: 51\n链接:http://www.securityfocus.com/bid/51\n\n来源: XF\n名称: vms-monitor-gain-privileges(7136)\n链接:http://www.iss.net/security_center/static/7136.php\n\n来源: OSVDB\n名称: 59332\n链接:http://osvdb.org/59332",
+		"updateTime": "2009-10-31 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

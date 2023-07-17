@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "端口映射绕过验证漏洞",
+		"cnnvdCode": "CNNVD-199206-001",
+		"cveCode": "CVE-1999-0168",
+		"publishTime": "1992-06-04 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "端口映射可以作为攻击者的一个代理和重定向服务请求，使请求显示为来自本地主机，该漏洞可能导致绕过本应有的认证。例如，NFS文件系统可不管出口限制通过端口映射安装。",
+		"affectedVendor": "sun",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0168",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

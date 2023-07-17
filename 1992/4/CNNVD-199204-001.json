@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "AIX FTP安装脚本漏洞",
+		"cnnvdCode": "CNNVD-199204-001",
+		"cveCode": "CVE-1999-1119",
+		"publishTime": "1992-04-27 00:00:00",
+		"vendor": "1002383",
+		"hazardLevel": 1,
+		"vulType": "未知",
+		"vulDesc": "AIX对匿名文件传输进行不安全配置时的FTP安装脚本存在漏洞。远程攻击者可以借助该漏洞执行任意命令。",
+		"affectedVendor": "国际商业机器",
+		"referUrl": "来源:CERT/CC Advisory: CA-1992-09\n名称: CA-1992-09\n链接:http://www.cert.org/advisories/CA-1992-09.html\n\n来源: XF\n名称: aix-anon-ftp(3154)\n链接:http://xforce.iss.net/static/3154.php\n\n来源: BID\n名称: 41\n链接:http://www.securityfocus.com/bid/41",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}
