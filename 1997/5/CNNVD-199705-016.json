@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SGI IRIX day5datacopier漏洞",
+		"cnnvdCode": "CNNVD-199705-016",
+		"cveCode": "CVE-1999-1232",
+		"publishTime": "1997-05-16 00:00:00",
+		"vendor": "1004938",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "SGI IRIX 6.2上的day5datacopier存在不受信任搜索路径漏洞。本地用户可以通过指向恶意cp程序的路径环境变量执行任意代码。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源: XF\n名称: sgi-day5datacopier(3316)\n链接:http://xforce.iss.net/static/3316.php\n\n来源: OSVDB\n名称: 8559\n链接:http://www.osvdb.org/8559\n\n来源: BUGTRAQ\n名称: 19970516 Irix and WWW\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420994\u0026w=2",
+		"updateTime": "2006-06-15 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

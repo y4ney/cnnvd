@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "AIX 3.x bugfiler任意文件创建漏洞",
+		"cnnvdCode": "CNNVD-199709-005",
+		"cveCode": "CVE-1999-0115",
+		"publishTime": "1997-09-01 00:00:00",
+		"vendor": "1002387",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "AIX bugfiler程序存在漏洞。本地用户可以获得根访问权限。",
+		"affectedVendor": "国际商业机器",
+		"referUrl": "来源: BID\n名称: 1800\n链接:http://www.securityfocus.com/bid/1800",
+		"updateTime": "2005-10-21 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

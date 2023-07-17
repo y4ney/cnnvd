@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SunOS or Solaris信任管理漏洞",
+		"cnnvdCode": "CNNVD-199710-008",
+		"cveCode": "CVE-1999-0185",
+		"publishTime": "1997-10-01 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "SunOS or Solaris存在漏洞，远程用户可以从一台FTP服务器的数据端口连接到信任该服务器的主机的远程登录服务器，可以被利用来执行远程命令。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: SUN\n名称: 00156\n链接:http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/156",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

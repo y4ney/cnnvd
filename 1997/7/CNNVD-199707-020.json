@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "WEBgais websendmail远程执行命令漏洞",
+		"cnnvdCode": "CNNVD-199707-020",
+		"cveCode": "CVE-1999-0196",
+		"publishTime": "1997-07-08 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "输入验证",
+		"vulDesc": "Webgais 1.0版本中的websendmail存在漏洞。远程用户可以借助receiver参数（$VAR_receiver变量）访问任意文件以及执行任意代码。",
+		"affectedVendor": "webgais_development_team",
+		"referUrl": "来源: BID\n名称: 2077\n链接:http://www.securityfocus.com/bid/2077\n\n来源: OSVDB\n名称: 237\n链接:http://www.osvdb.org/237",
+		"updateTime": "2006-11-16 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "输入验证"
+	}
+}

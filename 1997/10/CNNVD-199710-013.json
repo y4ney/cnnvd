@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Sort文件修改漏洞",
+		"cnnvdCode": "CNNVD-199710-013",
+		"cveCode": "CVE-1999-1095",
+		"publishTime": "1997-10-06 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Sort会创建伴有符号链接的临时文件，本地用户可以利用该漏洞修改任意使用sort的可写文件，如观测更新资料库和其他应用sort的程序。",
+		"affectedVendor": "redhat",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980303 updatedb stuff\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88890116304676\u0026w=2\n\n来源: BUGTRAQ\n名称: 19971006 KSR[T] Advisory #3: updatedb / crontabs\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87619953510834\u0026w=2\n\n来源: BUGTRAQ\n名称: 19980302 overwrite any file with updatedb\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88886870129518\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

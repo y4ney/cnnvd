@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Teardrop IP服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199712-009",
+		"cveCode": "CVE-1999-0104",
+		"publishTime": "1997-12-16 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Teardrop IP服务拒绝攻击的之后的变异，也称为Teardrop-2。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: OVAL\n名称: oval:org.mitre.oval:def:5743\n链接:http://oval.mitre.org/repository/data/getDef?id=oval:org.mitre.oval:def:5743",
+		"updateTime": "2009-03-04 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

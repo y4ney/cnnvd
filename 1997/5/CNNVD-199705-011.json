@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "IRIX /usr/lib/netaddpr漏洞",
+		"cnnvdCode": "CNNVD-199705-011",
+		"cveCode": "CVE-1999-1286",
+		"publishTime": "1997-05-09 00:00:00",
+		"vendor": "1004938",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "SGI IRIX 6.2及早期版本上的addnetpr存在漏洞。本地用户可以通过临时文件的符号链接修改任意文件并可能访问根目录。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源: XF\n名称: irix-addnetpr(1433)\n链接:http://xforce.iss.net/static/1433.php\n\n来源: BUGTRAQ\n名称: 19970509 Re: Irix: misc\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420927\u0026w=2\n\n来源: BID\n名称: 330\n链接:http://www.securityfocus.com/bid/330\n\n来源: OSVDB\n名称: 8560\n链接:http://www.osvdb.org/8560\n\n来源: patches.sgi.com\n链接:ftp://patches.sgi.com/support/free/security/advisories/19961203-02-PX",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

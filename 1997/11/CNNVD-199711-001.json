@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SGI syserr文件损毁漏洞",
+		"cnnvdCode": "CNNVD-199711-001",
+		"cveCode": "CVE-1999-0327",
+		"publishTime": "1997-11-01 00:00:00",
+		"vendor": "1004938",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "SGI syserr程序存在漏洞，本地用户可以损坏文件。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源: SGI\n名称: 19971103-01-PX\n链接:ftp://patches.sgi.com/support/free/security/advisories/19971103-01-PX",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

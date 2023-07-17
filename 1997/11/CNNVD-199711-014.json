@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SCO OpenServer以及SCO Open Desktop/Open Server scoterm权限许可和访问控制漏洞",
+		"cnnvdCode": "CNNVD-199711-014",
+		"cveCode": "CVE-1999-1209",
+		"publishTime": "1997-11-20 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "SCO OpenServer 5.0以及SCO Open Desktop/Open Server 3.0的scoterm存在漏洞，本地用户可以获取根权限。",
+		"affectedVendor": "sco",
+		"referUrl": "来源: US Government Resource: VB-97.14\n名称: VB-97.14\n链接:http://www.cert.org/vendor_bulletins/VB-97.14.scoterm\n\n来源: XF\n名称: sco-scoterm(690)\n链接:http://xforce.iss.net/xforce/xfdb/690\n\n来源: BUGTRAQ\n名称: 19971204 scoterm exploit\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88131151000069\u0026w=2",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

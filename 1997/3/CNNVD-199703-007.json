@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "superprobe缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199703-007",
+		"cveCode": "CVE-1999-1489",
+		"publishTime": "1997-03-04 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "缓冲区溢出",
+		"vulDesc": "Slackware Linux 3.1版本的XFree86 SuperProbe的TestChip函数存在缓冲区溢出漏洞。本地用户可以通过超长的-nopr参数获取根权限。",
+		"affectedVendor": "slackware",
+		"referUrl": "来源: BID\n名称: 364\n链接:http://www.securityfocus.com/bid/364\n\n来源: BUGTRAQ\n名称: 19970304 Linux SuperProbe exploit\n链接:http://www.securityfocus.com/archive/1/6384",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区溢出"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "ISC BIND 安全漏洞",
+		"cnnvdCode": "CNNVD-199708-008",
+		"cveCode": "CVE-1999-0024",
+		"publishTime": "1997-08-13 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "ISC BIND是美国ISC公司的一套实现了DNS协议的开源软件。\r\nISC BIND中存在安全漏洞。攻击者可利用该漏洞造成DNS缓存中毒。",
+		"affectedVendor": "sun",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0024",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

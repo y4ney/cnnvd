@@ -1,0 +1,20 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Apache httpd 信息泄露漏洞",
+		"cnnvdCode": "CNNVD-199701-019",
+		"cveCode": "CVE-1999-0236",
+		"publishTime": "1997-01-01 00:00:00",
+		"isOfficial": 1,
+		"vendor": "1000404",
+		"hazardLevel": 2,
+		"vulType": "信息泄露",
+		"vulTypeName": "信息泄露",
+		"vulDesc": "Apache httpd是美国阿帕奇（Apache）基金会的一款专为现代操作系统开发和维护的开源HTTP服务器。\r\nApache httpd 1.5及以前版本和Apache Web Server 1.0以前的版本的ScriptAlias功能存在信息泄露漏洞。如果ScriptAlias目录定义在DocumentRoot下，远程攻击者可以浏览Web服务器上CGI程序的源码。如果索引功能打开的话，在URL里使用多个斜杠还可以列出CGI-BIN目录的列表。远程攻击者可以利用这个漏洞查看脚本的代码，进一步审计这些脚本可能获得更多漏洞。\u003c**\u003e",
+		"affectedVendor": "阿帕奇",
+		"referUrl": "来源:http://nvd.nist.gov/nvd.cfm?cvename=CVE-1999-0236※http://www.nsfocus.net/vulndb/3893\r\n链接:无\r\n\r\n来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0236",
+		"patch": "http://www.apache.org/\" target=\"_blank\"\u003e",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "信息泄露"
+	}
+}

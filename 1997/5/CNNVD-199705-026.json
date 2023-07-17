@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "ftpd 安全漏洞",
+		"cnnvdCode": "CNNVD-199705-026",
+		"cveCode": "CVE-1999-0035",
+		"publishTime": "1997-05-29 00:00:00",
+		"vendor": "1004938",
+		"hazardLevel": 3,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "ftpd 存在安全漏洞。可以借助该漏洞读取/写入任意文件。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0035",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

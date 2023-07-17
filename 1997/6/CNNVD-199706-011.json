@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "svgalib zgv缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199706-011",
+		"cveCode": "CVE-1999-1483",
+		"publishTime": "1997-06-19 00:00:00",
+		"hazardLevel": 3,
+		"vulType": "缓冲区溢出",
+		"vulDesc": "svgalib 1.2.10和早期版本中的zgv存在缓冲区溢出漏洞。本地用户可以借助长HOME环境变量执行任意代码。",
+		"affectedVendor": "svgalib",
+		"referUrl": "来源: BUGTRAQ\n名称: 19970619 svgalib/zgv\n链接:http://www.securityfocus.com/archive/1/7041",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区溢出"
+	}
+}

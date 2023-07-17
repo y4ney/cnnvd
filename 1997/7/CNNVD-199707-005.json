@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "WU-FTPD 安全漏洞",
+		"cnnvdCode": "CNNVD-199707-005",
+		"cveCode": "CVE-1999-0156",
+		"publishTime": "1997-07-01 00:00:00",
+		"hazardLevel": 3,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "WU-FTPD是一套用于类Unix操作系统的FTP（文件传输协议）服务器软件。\r\nWU-FTPD存在安全漏洞，该漏洞源于守护程序允许任何用户和密码组合。",
+		"affectedVendor": "washington_university",
+		"referUrl": "来源:MISC\r\n链接:https://www.cve.org/CVERecord?id=CVE-1999-0156",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

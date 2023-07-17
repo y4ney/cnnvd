@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Exim权限许可和访问控制漏洞",
+		"cnnvdCode": "CNNVD-199707-035",
+		"cveCode": "CVE-1999-0971",
+		"publishTime": "1997-07-22 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "缓冲区溢出",
+		"vulDesc": "Exim存在缓冲区溢出漏洞。本地用户可以借助.forward文件下的一个长:include:选项获取根权限。",
+		"affectedVendor": "university_of_cambridge",
+		"referUrl": "来源: BUGTRAQ\n名称: 19970722 Security hole in exim 1.62: local root exploit\n链接:http://www.securityfocus.com/archive/1/7301",
+		"updateTime": "2006-09-05 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区溢出"
+	}
+}

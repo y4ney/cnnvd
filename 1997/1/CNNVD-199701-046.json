@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP-UX dtlogin权限许可漏洞",
+		"cnnvdCode": "CNNVD-199701-046",
+		"cveCode": "CVE-1999-1311",
+		"publishTime": "1997-01-07 00:00:00",
+		"vendor": "1002341",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "HP-UX 10.20到10.10版本中的dtlogin存在漏洞，本地用户可以绕过认证以及获得特权。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: CIAC\n名称: H-21\n链接:http://ciac.llnl.gov/ciac/bulletins/h-21.shtml",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

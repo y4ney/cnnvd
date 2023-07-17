@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Windows NT 安全漏洞",
+		"cnnvdCode": "CNNVD-199701-011",
+		"cveCode": "CVE-1999-0535",
+		"publishTime": "1997-01-01 00:00:00",
+		"vendor": "1003485",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Windows NT存在安全漏洞，该漏洞源于密码的账号策略存在不恰当的、临界安全的设置，例如：对于密码长度、密码年限或者独特性。",
+		"affectedVendor": "微软",
+		"referUrl": "来源:http://nvd.nist.gov/nvd.cfm?cvename=CVE-1999-0535\r\n链接:无\r\n\r\n来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0535",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

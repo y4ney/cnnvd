@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Microsoft Internet Information Services 安全漏洞",
+		"cnnvdCode": "CNNVD-199706-003",
+		"cveCode": "CVE-1999-0281",
+		"publishTime": "1997-06-01 00:00:00",
+		"vendor": "1003485",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Microsoft Internet Information Services（IIS）是美国微软（Microsoft）公司的一款适用于Windows Server平台的Web服务器。\r\nMicrosoft IIS 存在安全漏洞，该漏洞源于该服务器未对输入的URL长度进行正确的处理。攻击者可通过长URLs导致服务拒绝。",
+		"affectedVendor": "微软",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0281",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

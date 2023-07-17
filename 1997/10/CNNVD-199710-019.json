@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Rainbow Six Multiplayer缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199710-019",
+		"cveCode": "CVE-1999-1261",
+		"publishTime": "1997-10-24 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "缓冲区溢出",
+		"vulDesc": "Rainbow Six Multiplayer存在缓冲区溢出漏洞。远程攻击者借助长nickname (nick)命令导致服务拒绝，并且可能执行任意命令。",
+		"affectedVendor": "metamail_corporation",
+		"referUrl": "来源: XF\n名称: rainbowsix-nick-bo(1772)\n链接:http://xforce.iss.net/static/1772.php\n\n来源: BUGTRAQ\n名称: 19990211 Rainbow Six Buffer Overflow.....\n链接:http://www.securityfocus.com/archive/1/12433",
+		"updateTime": "2006-09-21 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区溢出"
+	}
+}

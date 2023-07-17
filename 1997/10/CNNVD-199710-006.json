@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "WINS数据库拒绝服务漏洞",
+		"cnnvdCode": "CNNVD-199710-006",
+		"cveCode": "CVE-1999-0294",
+		"publishTime": "1997-10-01 00:00:00",
+		"vendor": "1003485",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "WINS数据库的所有记录可以通过删除SNMP导致服务拒绝。",
+		"affectedVendor": "微软",
+		"referUrl": "来源:http://nvd.nist.gov/nvd.cfm?cvename=CVE-1999-0294\r\n链接:无\r\n\r\n来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0294",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

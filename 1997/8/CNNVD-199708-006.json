@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Microsoft Internet Explorer 安全漏洞",
+		"cnnvdCode": "CNNVD-199708-006",
+		"cveCode": "CVE-1999-1446",
+		"publishTime": "1997-08-05 00:00:00",
+		"vendor": "1003485",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Microsoft Internet Explorer（IE）是美国微软（Microsoft）公司的一款Windows操作系统附带的Web浏览器。\r\nMicrosoft Internet Explorer存在安全漏洞。Internet Explorer 3将一个用户访问的所有URL历史记录在位于Temporary Internet Files and History文件夹的DAT文件中，该文件在用户选中“Clear History”选项时不会被清除，并且在用户浏览文件夹时被设定为不可见。",
+		"affectedVendor": "微软",
+		"referUrl": "来源:NTBUGTRAQ\r\n链接:http://marc.info/?l=ntbugtraq\u0026m=87602837719654\u0026w=2\r\n\r\n来源:NTBUGTRAQ\r\n链接:http://marc.info/?l=ntbugtraq\u0026m=87602837719655\u0026w=2",
+		"updateTime": "2021-07-26 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

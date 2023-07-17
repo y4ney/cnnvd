@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Windows NT LSASS.EXE (LSA/LSARPC)服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199706-004",
+		"cveCode": "CVE-1999-0227",
+		"publishTime": "1997-06-01 00:00:00",
+		"vendor": "1003485",
+		"hazardLevel": 4,
+		"vulType": "权限许可和访问控制",
+		"vulDesc": "Windows NT中LSASS.EXE (LSA/LSARPC)程序的访问破坏导致服务拒绝。",
+		"affectedVendor": "微软",
+		"referUrl": "来源: MSKB\n名称: Q154087\n链接:http://support.microsoft.com/default.aspx?scid=kb;%5BLN%5D;Q154087",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "权限许可和访问控制"
+	}
+}

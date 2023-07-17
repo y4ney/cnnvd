@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Linux，Ultrix及其他操作系统rpc.mountd错误信息漏洞",
+		"cnnvdCode": "CNNVD-199708-011",
+		"cveCode": "CVE-1999-1225",
+		"publishTime": "1997-08-24 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Linux，Ultrix以及可能还包括其他操作系统的rpc.mountd存在漏洞。远程攻击者可以借助尝试安装服务器上的文件决定其删除或存储，从而引发该文件是否存在的不同错误信息。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: XF\n名称: mountd-file-exists(347)\n链接:http://xforce.iss.net/static/347.php\n\n来源: BUGTRAQ\n名称: 19970824 Serious security flaw in rpc.mountd on several operating systems.\n链接:http://www.securityfocus.com/archive/1/7526",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

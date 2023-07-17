@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Count.cgi (wwwcount)远程缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199711-006",
+		"cveCode": "CVE-1999-0021",
+		"publishTime": "1997-10-16 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Count.cgi (wwwcount)是一个非常流行的Web站点跟踪统计CGI程序。一般它作为Web页面点击数统计。\n1997年10月，这个程序被发现了两个远程漏洞。第一个漏洞比较轻微，它能允许远程用户浏览到受限制的.GIF文件，可能泄漏.GIF文件里潜在的敏感数据。\n第二个漏洞比较严重，count.cgi程序在处理QUERY_STRING环境变量的时候存在缓冲区溢出漏洞。远程攻击者可以发送一个超长的请求给程序就能进行溢出攻击，以Web用户的权限在系统执行任意命令。",
+		"affectedVendor": "muhammad_a._muquit",
+		"referUrl": "来源: BID\n名称: 128\n链接:http://www.securityfocus.com/bid/128",
+		"patch": "http://www.fccc.edu/users/muquit/Count.html\" target=\"_blank\"\u003e",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

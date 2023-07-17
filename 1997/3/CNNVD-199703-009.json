@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "多个Vendor connect()服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199703-009",
+		"cveCode": "CVE-1999-1408",
+		"publishTime": "1997-03-05 00:00:00",
+		"vendor": "1002387",
+		"hazardLevel": 4,
+		"vulType": "输入验证",
+		"vulDesc": "AIX 4.1.4版本和HP-UX 10.01以及9.05版本存在漏洞。 本地用户可以利用套接字连接本地主机上的端口，调用关闭来清除套接字，然后使用连接至本地主机上不同端口的相同套接字导致服务拒绝。",
+		"affectedVendor": "国际商业机器",
+		"referUrl": "来源: BID\n名称: 352\n链接:http://www.securityfocus.com/bid/352\n\n来源: BUGTRAQ\n名称: 19970305 Bug in connect() for aix 4.1.4 ?\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420641\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "输入验证"
+	}
+}

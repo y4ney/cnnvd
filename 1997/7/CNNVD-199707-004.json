@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Qmail服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199707-004",
+		"cveCode": "CVE-1999-0250",
+		"publishTime": "1997-07-01 00:00:00",
+		"hazardLevel": 1,
+		"vulType": "未知",
+		"vulDesc": "Qmail存在漏洞。可以借助长SMTP命令导致服务拒绝。",
+		"affectedVendor": "dan_bernstein",
+		"referUrl": "来源: www.ornl.gov\n链接:http://www.ornl.gov/its/archives/mailing-lists/qmail/1997/06/threads.html\n\n来源: cr.yp.to\n链接:http://cr.yp.to/qmail/venema.html\n\n来源: BUGTRAQ\n名称: 19970612 qmail-dos-2.c, another denial of service attack\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602558319024\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

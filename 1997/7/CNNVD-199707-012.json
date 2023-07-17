@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "TCP 安全漏洞",
+		"cnnvdCode": "CNNVD-199707-012",
+		"cveCode": "CVE-1999-0074",
+		"publishTime": "1997-07-01 00:00:00",
+		"vendor": "1003736",
+		"hazardLevel": 3,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "TCP（Transmission Control Protocol,传输控制协议）是一种面向连接的、可靠的、基于字节流的传输层通信协议，由IETF的RFC 793定义。\r\n监听的TCP端口按顺序分配，可以进行欺骗攻击。",
+		"affectedVendor": "NetBSD",
+		"referUrl": "来源:http://nvd.nist.gov/nvd.cfm?cvename=CVE-1999-0074\r\n链接:无\r\n\r\n来源:MISC\r\n链接:https://www.cve.org/CVERecord?id=CVE-1999-0074",
+		"updateTime": "2022-09-01 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP-UX ftpd/kftpd权限许可和访问控制漏洞",
+		"cnnvdCode": "CNNVD-199702-005",
+		"cveCode": "CVE-1999-1160",
+		"publishTime": "1997-02-02 00:00:00",
+		"vendor": "1002341",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "HP-UX 10.x和9.x版本的ftpd/kftpd存在漏洞。远程攻击者可能利用该漏洞获得根权限。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: HP\n名称: HPSBUX9702-055\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420581\u0026w=2\n\n来源: CIAC\n名称: H-33\n链接:http://ciac.llnl.gov/ciac/bulletins/h-33.shtml\n\n来源: XF\n名称: hp-ftpd-kftpd(7437)\n链接:http://www.iss.net/security_center/static/7437.php",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

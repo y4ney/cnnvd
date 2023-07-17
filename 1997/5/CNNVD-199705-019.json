@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Sparc SunOS服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199705-019",
+		"cveCode": "CVE-1999-1449",
+		"publishTime": "1997-05-19 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "在Sparc 20机器上运行的SunOS 4.1.4版本存在漏洞。本地用户可以通过从/dev/tcx0 TCX设备读取导致服务拒绝（核恐慌）。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: www.insecure.org\n链接:http://www.insecure.org/sploits/sunos.dev.tcx0.write.wierd.shit.to.device.bug.html\n\n来源: BUGTRAQ\n名称: 19970519 /dev/tcx0 crashes SunOS 4.1.4 on Sparc 20's\n链接:http://oamk.fi/~jukkao/bugtraq/before-971202/0498.html",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Solaris ping服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199706-013",
+		"cveCode": "CVE-1999-1423",
+		"publishTime": "1997-06-26 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Solaris 2.3到2.6版本中的ping存在漏洞。本地用户loopback界面对多路广播地址的ping请求导致服务拒绝（崩溃），例如ping -i。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: BID\n名称: 209\n链接:http://www.securityfocus.com/bid/209\n\n来源: SUN\n名称: 00146\n链接:http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/146\n\n来源: BUGTRAQ\n名称: 19971005 Solaris Ping Bug and other [bc] oddities\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602558319180\u0026w=2\n\n来源: BUGTRAQ\n名称: 19970627 SUMMARY: Solaris Ping bug (DoS)\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602558319171\u0026w=2\n\n来源: BUGTRAQ\n名称: 19970626 Solaris Ping bug (DoS)\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602558319160\u0026w=2\n\n来源: XF\n名称: ping-multicast-loopback-dos(7492)\n链接:http://www.iss.net/security_center/static/7492.php\n\n来源: BUGTRAQ\n名称: 19970627 Solaris Ping bug(inetsvc)\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602558319181\u0026w=2",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

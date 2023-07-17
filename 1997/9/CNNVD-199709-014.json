@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Oracle Webserver setuid root配置文件权限许可和访问控制漏洞",
+		"cnnvdCode": "CNNVD-199709-014",
+		"cveCode": "CVE-1999-1125",
+		"publishTime": "1997-09-19 00:00:00",
+		"vendor": "1004072",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "Oracle Webserver 2.1以及更早的版本运行的setuid root，其配置文件归oracle账户所有，任意拥有oracle账户访问权限的本地或远程攻击者可以利用该漏洞。通过修改配置文件获取权限或修改任意文件。",
+		"affectedVendor": "甲骨文",
+		"referUrl": "来源: BUGTRAQ\n名称: 19970919 Instresting practises of Oracle [Oracle Webserver]\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602880019796\u0026w=2",
+		"updateTime": "2006-09-22 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

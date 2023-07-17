@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Xyplex终端服务器加密错误漏洞",
+		"cnnvdCode": "CNNVD-199711-015",
+		"cveCode": "CVE-1999-1257",
+		"publishTime": "1997-11-26 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "Xyplex终端服务器6.0.1S1以及可能还包括其他版本存在漏洞，远程攻击者可以借助输入（1）一个CTRL-Z字符，（2）一个？（问号）绕过密码提示。",
+		"affectedVendor": "xyplex",
+		"referUrl": "来源: XF\n名称: xyplex-question-login(1826)\n链接:http://xforce.iss.net/static/1826.php\n\n来源: XF\n名称: xyplex-controlz-login(1825)\n链接:http://xforce.iss.net/static/1825.php\n\n来源: BUGTRAQ\n名称: 19971126 Xyplex terminal server bug\n链接:http://www.securityfocus.com/archive/1/8134",
+		"updateTime": "2006-09-22 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

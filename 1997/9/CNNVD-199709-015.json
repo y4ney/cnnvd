@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "ARP 安全漏洞",
+		"cnnvdCode": "CNNVD-199709-015",
+		"cveCode": "CVE-1999-0667",
+		"publishTime": "1997-09-19 00:00:00",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "ARP协议存在安全漏洞。任何主机可以通过欺骗ARP获取答复，并且使ARP缓存中毒以获取IP地址欺骗或导致服务拒绝。",
+		"affectedVendor": "arp_protocol",
+		"referUrl": "来源:MISC\r\n链接:https://marc.info/?l=bugtraq\u0026m=87602880019797\u0026w=2",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Microsoft Internet Information Services 安全漏洞",
+		"cnnvdCode": "CNNVD-199701-007",
+		"cveCode": "CVE-1999-0253",
+		"publishTime": "1997-01-01 00:00:00",
+		"isOfficial": 1,
+		"vendor": "1003485",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Microsoft Internet Information Services（IIS）是美国微软（Microsoft）公司的一款适用于Windows Server平台的Web服务器。\r\nMicrosoft IIS存在安全漏洞。IIS 3.0在对于某些不正常的HTTP请求的处理上存在问题，可导致CGI源代码泄漏给远程攻击者。该问题是一个输入验证错误。IIS是通过文件扩展名来决定将一个文件内容直接显示出来还是作为脚本执行的。对于asp文件，如果请求中的扩展名是\".asp\"那么IIS可以正确处理。如果将扩展名后面加一个\".\"或者编码为\"%2e\"，IIS讲不认为这是一个ASP文件而会直接显示出文件内容。但是文件系统会忽略文件名后的\".\"，可以正确找到文件。",
+		"affectedVendor": "微软",
+		"referUrl": "来源:MISC\r\n链接:https://www.securityfocus.com/bid/1814",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

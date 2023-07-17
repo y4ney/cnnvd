@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Windows服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199704-004",
+		"cveCode": "CVE-1999-1387",
+		"publishTime": "1997-04-02 00:00:00",
+		"vendor": "1003485",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Windows NT 4.0 SP2存在漏洞。远程攻击者可能通过恶意输入或包数据导致服务拒绝（崩溃）。如由在Linux 2.0.29核心编译却在Linux 2.0.25上编译的Linux smbmount命令产生。",
+		"affectedVendor": "微软",
+		"referUrl": "来源: BUGTRAQ\n名称: 19970407 DUMP of NT system crash\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420741\u0026w=2\n\n来源: BUGTRAQ\n名称: 19970403 Fatal bug in NT 4.0 server (more comments)\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420732\u0026w=2\n\n来源: BUGTRAQ\n名称: 19970402 Fatal bug in NT 4.0 server\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420731\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

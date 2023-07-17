@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Elm缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199705-012",
+		"cveCode": "CVE-1999-1184",
+		"publishTime": "1997-05-13 00:00:00",
+		"hazardLevel": 3,
+		"vulType": "缓冲区溢出",
+		"vulDesc": "Elm 2.4及早期版本存在缓冲区溢出漏洞。本地用户可以通过一个超长的环境变量获得权限。",
+		"affectedVendor": "elm_development_group",
+		"referUrl": "来源: BUGTRAQ\n名称: 19970514 Re: ELM overflow\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420970\u0026w=2\n\n来源: BUGTRAQ\n名称: 19970513\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420967\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区溢出"
+	}
+}

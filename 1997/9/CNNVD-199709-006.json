@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Linux implementations TFTP 安全漏洞",
+		"cnnvdCode": "CNNVD-199709-006",
+		"cveCode": "CVE-1999-0183",
+		"publishTime": "1997-09-01 00:00:00",
+		"hazardLevel": 3,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Linux implementations 存在安全漏洞，该漏洞源于Linux implementations的TFTP可能允许对受限目录以外的文件进行访问。",
+		"affectedVendor": "tftp",
+		"referUrl": "来源:http://nvd.nist.gov/nvd.cfm?cvename=CVE-1999-0183\r\n链接:无\r\n\r\n来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0183",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

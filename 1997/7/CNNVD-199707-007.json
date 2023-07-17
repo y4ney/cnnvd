@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "WWW URL安全漏洞",
+		"cnnvdCode": "CNNVD-199707-007",
+		"cveCode": "CVE-1999-0541",
+		"publishTime": "1997-07-01 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "WWW URL存在安全漏洞，该漏洞源于密码是可猜测的。",
+		"referUrl": "来源:MISC\r\n链接:https://www.cve.org/CVERecord?id=CVE-1999-0541",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

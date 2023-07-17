@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "NFS 安全漏洞",
+		"cnnvdCode": "CNNVD-199701-041",
+		"cveCode": "CVE-1999-0166",
+		"publishTime": "1997-01-01 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "NFS 存在安全漏洞。用户使用一条 cd .. 命令访问除了输出文件系统之外的其他目录。",
+		"affectedVendor": "sun",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0166",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

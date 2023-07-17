@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Macromedia Shockwave GETNETTEXT本地文件泄露漏洞",
+		"cnnvdCode": "CNNVD-199703-010",
+		"cveCode": "CVE-1999-1525",
+		"publishTime": "1997-03-14 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 2,
+		"vulType": "设计错误",
+		"vulDesc": "Macromedia Shockwave是一款多媒体重放应用程序，允许用户从WEB浏览器中查看交互WEB内容。\nMacromedia Shockwave不正确处理\"GETNETTEXT\"命令参数，远程攻击者可以利用这个漏洞查看用户邮件内容。\n恶意WEB页开发者可以使用Shockwave访问用户的Netscape邮件文件夹，在知道目标用户邮件文件夹路径和名称的情况下，如名字为Inbox、Outbox、Sent和Trash，默认路径为\"C:/Program Files/Netscape/Navigator/Mail/Inbox\"。可使用Shockwave命令\"GETNETTEXT\"调用浏览器查询邮件文件夹中的信息，并可以把这些信息返回给变量发送给服务器，造成信息泄露。",
+		"affectedVendor": "macromedia",
+		"referUrl": "来源: XF\n名称: http-ns-shockwave(460)\n链接:http://xforce.iss.net/static/460.php\n\n来源: XF\n名称: shockwave-file-read-vuln(1586)\n链接:http://xforce.iss.net/static/1586.php\n\n来源: XF\n名称: shockwave-internal-access(1585)\n链接:http://xforce.iss.net/static/1585.php\n\n来源: BUGTRAQ\n名称: 19970314 Shockwave Security Alert\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420670\u0026w=2",
+		"patch": "http://www.macromedia.com/\" target=\"_blank\"\u003e",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "设计错误"
+	}
+}

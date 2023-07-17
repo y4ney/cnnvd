@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Oracle Webserver PL/SQL拒绝服务漏洞",
+		"cnnvdCode": "CNNVD-199707-036",
+		"cveCode": "CVE-1999-1068",
+		"publishTime": "1997-07-23 00:00:00",
+		"vendor": "1004072",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Oracle Webserver 2.1在其服务的PL/SQL存储进程时存在漏洞。远程攻击者可以借助一个长HTTP GET请求引发服务拒绝。",
+		"affectedVendor": "甲骨文",
+		"referUrl": "来源: BUGTRAQ\n名称: 19970723 DoS against Oracle Webserver 2.1 with PL/SQL stored procedures\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602661419366\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "多家厂商TCP/IP实现处理相同源、目标IP数据包失败拒绝服务攻击漏洞",
+		"cnnvdCode": "CNNVD-199712-002",
+		"cveCode": "CVE-1999-0016",
+		"publishTime": "1997-11-13 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "TCP/IP网络协议栈是大多数操作系统均实现的用于Internet联网的最被广为使用的网络协议。\n早期BSD派生系统(Linux除外)及Windows系统TCP/IP协议栈实现上存在漏洞，远程攻击者可以利用此漏洞对服务器进行拒绝服务攻击。\n发送一个源地址和目标地址相同，源端口和目的端口也相同的SYN包到有漏洞的目标系统，这就是著名的Land攻击。由于TCP/IP实现上的问题，目标系统对此种畸形包的处理可能会出问题。不同的系统对Land攻击反应不同，许多老版本的UNIX类操作系统将崩溃，NT的CPU资源占用将接近100%(大约持续五分钟)。\n此漏洞相关信息在新闻组和邮件列表中可以用\"Land denial of service\"、\"Land Attack\"为关键字搜索到。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: HP\n名称: HPSBUX9801-076\n链接:http://www1.itrc.hp.com/service/cki/docDisplay.do?docId=HPSBUX9801-076",
+		"updateTime": "2006-11-16 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

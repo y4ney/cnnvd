@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP-UX movemail权限许可漏洞",
+		"cnnvdCode": "CNNVD-199701-044",
+		"cveCode": "CVE-1999-1249",
+		"publishTime": "1997-01-06 00:00:00",
+		"vendor": "1002341",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "HP-UX 10.20版本中的movemail存在不安全许可，本地用户可以获得根特权。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: XF\n名称: hp-movemail(2057)\n链接:http://xforce.iss.net/static/2057.php\n\n来源: HP\n名称: HPSBUX9701-047\n链接:http://www.codetalker.com/advisories/vendor/hp/hpsbux9701-047.html\n\n来源: OSVDB\n名称: 8099\n链接:http://www.osvdb.org/8099",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

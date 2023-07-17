@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "wu-ftp 安全漏洞",
+		"cnnvdCode": "CNNVD-199701-049",
+		"cveCode": "CVE-1999-0081",
+		"publishTime": "1997-01-11 00:00:00",
+		"hazardLevel": 3,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "wu-ftp存在安全漏洞，攻击者可利用该漏洞允许借助rnfr命令覆盖文件。",
+		"affectedVendor": "washington_university",
+		"referUrl": "来源:http://nvd.nist.gov/nvd.cfm?cvename=CVE-1999-0081\r\n链接:无\r\n\r\n来源:MISC\r\n链接:https://www.cve.org/CVERecord?id=CVE-1999-0081",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

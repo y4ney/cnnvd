@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "CrackLib缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199712-007",
+		"cveCode": "CVE-1999-1140",
+		"publishTime": "1997-12-14 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "缓冲区溢出",
+		"vulDesc": "CrackLib 2.5版本存在缓冲区溢出漏洞。本地用户借助一个长的GECOS字段获得根特权。",
+		"affectedVendor": "alec_muffet",
+		"referUrl": "来源: US Government Resource: VB-97.16\n名称: VB-97.16\n链接:http://www.cert.org/vendor_bulletins/VB-97.16.CrackLib\n\n来源: XF\n名称: cracklib-bo(1539)\n链接:http://xforce.iss.net/static/1539.php\n\n来源: BUGTRAQ\n名称: 19971214 buffer overflows in cracklib?!\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88209041500913\u0026w=2",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区溢出"
+	}
+}

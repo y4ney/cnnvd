@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SGI IRIX 缓冲区错误漏洞",
+		"cnnvdCode": "CNNVD-199707-025",
+		"cveCode": "CVE-1999-0027",
+		"publishTime": "1997-07-16 00:00:00",
+		"vendor": "1004938",
+		"hazardLevel": 2,
+		"vulType": "缓冲区错误",
+		"vulTypeName": "缓冲区错误",
+		"vulDesc": "SGI IRIX中的eject命令存在缓冲区错误漏洞。该漏洞源于网络系统或产品在内存上执行操作时，未正确验证数据边界，导致向关联的其他内存位置上执行了错误的读写操作。攻击者可利用该漏洞导致缓冲区溢出或堆溢出等。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源:http://nvd.nist.gov/nvd.cfm?cvename=CVE-1999-0027\r\n链接:无\r\n\r\n来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0027",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区错误"
+	}
+}

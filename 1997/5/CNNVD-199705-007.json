@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SGI MachineInfo CGI采集信息漏洞",
+		"cnnvdCode": "CNNVD-199705-007",
+		"cveCode": "CVE-1999-1067",
+		"publishTime": "1997-05-07 00:00:00",
+		"vendor": "1004938",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "一些web服务器默认安装SGI MachineInfo CGI程序，可能打印敏感系统状况信息。远程攻击者可以利用该漏洞采集信息。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源: BUGTRAQ\n名称: 19970507 Re: SGI Security Advisory 19970501-01-A - Vulnerability in webdist.cgi\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420919\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

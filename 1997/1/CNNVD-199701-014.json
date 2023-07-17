@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": ".reg文件注册表 安全漏洞",
+		"cnnvdCode": "CNNVD-199701-014",
+		"cveCode": "CVE-1999-0572",
+		"publishTime": "1997-01-01 00:00:00",
+		"vendor": "1003485",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": ".reg文件与Windows NT 注册表编辑（打开注册表）存在安全漏洞，攻击者可利用该漏洞使注册表易受特洛伊木马攻击的影响。",
+		"affectedVendor": "微软",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/178",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

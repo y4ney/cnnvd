@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "O'Reilly WebSite win-c-sample.exe程序远程缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199701-025",
+		"cveCode": "CVE-1999-0178",
+		"publishTime": "1997-01-01 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "输入验证",
+		"vulDesc": "O'Reilly WebSite (Pro)是一个Windows 平台下的Web服务器软件。\n低版本的Website的一个例程存在缓冲溢出问题，远程攻击者可能利用此漏洞以Web进程的权限执行任意指令。\n1.1e版的Website for NT Web服务器在/cgi-shl/目录下包含了win-c-sample.exe程序。此程序有严重的缓冲区溢出漏洞，允许攻击者通过溢出攻击执行任意指令。由于WebSite通常运行在较高权限的帐号下，所以该漏洞导致的问题较严重。",
+		"affectedVendor": "oreilly",
+		"referUrl": "来源: XF\n名称: http-website-winsample(295)\n链接:http://xforce.iss.net/xforce/xfdb/295\n\n来源: BID\n名称: 2078\n链接:http://www.securityfocus.com/bid/2078\n\n来源: OSVDB\n名称: 8\n链接:http://www.osvdb.org/8\n\n来源: BUGTRAQ\n名称: 19970106 Re: signal handling\n链接:http://archives.neohapsis.com/archives/bugtraq/1997_1/0021.html",
+		"updateTime": "2006-11-16 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "输入验证"
+	}
+}

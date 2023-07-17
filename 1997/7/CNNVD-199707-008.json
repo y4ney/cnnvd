@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "早期Windows系统TCP/IP OOB带外紧急数据拒绝服务攻击漏洞",
+		"cnnvdCode": "CNNVD-199707-008",
+		"cveCode": "CVE-1999-0153",
+		"publishTime": "1997-05-07 00:00:00",
+		"isOfficial": 1,
+		"vendor": "1003485",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "TCP/IP网络协议栈是大多数操作系统均实现的用于Internet联网的最被广为使用的网络协议。\n一些老版本的Windows系统不能很好的处理TCP紧急数据，远程攻击者可以利用此漏洞对服务器进行拒绝服务攻击，造成主机系统崩溃。\n1997年5月7号有人发布了一个winnuke.c。首先建立一条到Win95/NT主机的TCP连接，然后发送TCP紧急数据，导致系统崩溃。139/TCP是Win95/NT系统最常见的侦听端口，所以winnuke.c使用了该端口。之所以称呼这种攻击为OOB攻击，因为MSG_OOB标志，实际应该是TCP紧急数据攻击。\n\u003c*链接：http://xforce.iss.net/static/173.php\n        http://www.ciac.org/ciac/bulletins/h-57.shtml\n*\u003e",
+		"affectedVendor": "微软",
+		"referUrl": "来源: OSVDB\n名称: 1666\n链接:http://www.osvdb.org/1666",
+		"patch": "http://support.microsoft.com/default.aspx?scid=",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

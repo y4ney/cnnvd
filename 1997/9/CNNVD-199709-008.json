@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Microsoft IIS 3.0 newdsn.exe文件创建漏洞",
+		"cnnvdCode": "CNNVD-199709-008",
+		"cveCode": "CVE-1999-0191",
+		"publishTime": "1997-09-01 00:00:00",
+		"isOfficial": 1,
+		"vendor": "1003485",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "IIS 3.0是一款Windows NT/2000系统自带的的Web服务器软件，由Microsoft公司开发维护。默认安装的IIS 3.0带了一个缺省示例CGI程序/scripts/tools/newdsn.exe。\nnewdsn.exe实现上存在一个漏洞，允许攻击者通过提交一个特意构造的URL请求来覆盖任意文件。\n如果系统的NTFS权限设置不够严格，攻击者可能在系统中任何位置创建文件，或覆盖现存数据库的DSN。这可能导致拒绝服务攻击或其他后果。",
+		"affectedVendor": "微软",
+		"referUrl": "来源: OSVDB\n名称: 275\n链接:http://www.osvdb.org/275",
+		"patch": "http://www.microsoft.com/iis\" target=\"_blank\"\u003e",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

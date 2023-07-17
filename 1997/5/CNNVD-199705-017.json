@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Solaris UNIX域套接字权限许可和访问控制漏洞",
+		"cnnvdCode": "CNNVD-199705-017",
+		"cveCode": "CVE-1999-1402",
+		"publishTime": "1997-05-17 00:00:00",
+		"vendor": "1001925",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Solaris 2.x版本、SunOS 4.x版本及其它基于BSD4.4版本以前操作系统的UNIX域套接字访问许可存在漏洞。本地用户可以利用该漏洞连接套接字并可能利用套接字干扰或控制程序的操作。",
+		"affectedVendor": "freeBSD",
+		"referUrl": "来源: BID\n名称: 456\n链接:http://www.securityfocus.com/bid/456\n\n来源: BUGTRAQ\n名称: 19971003 Solaris 2.6 and sockets\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602248718482\u0026w=2\n\n来源: BUGTRAQ\n名称: 19970517 UNIX domain socket (Solarisx86 2.5)\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167418317\u0026w=2\n\n来源: XF\n名称: sun-domain-socket-permissions(7172)\n链接:http://www.iss.net/security_center/static/7172.php",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

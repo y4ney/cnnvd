@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "IRIX xfsdump漏洞",
+		"cnnvdCode": "CNNVD-199705-008",
+		"cveCode": "CVE-1999-1398",
+		"publishTime": "1997-05-07 00:00:00",
+		"vendor": "1004938",
+		"hazardLevel": 3,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "SGI IRIX上的xfsdump存在漏洞。本地用户可以通过bck.log日志文件也可能通过符号攻击获得根权限。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源: BID\n名称: 472\n链接:http://www.securityfocus.com/bid/472\n\n来源: www.insecure.org\n链接:http://www.insecure.org/sploits/irix.xfsdump.html\n\n来源: BUGTRAQ\n名称: 19970507 Irix: misc\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420921\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

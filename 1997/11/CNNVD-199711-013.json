@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Digital UNIX补丁工具包信息修改漏洞",
+		"cnnvdCode": "CNNVD-199711-013",
+		"cveCode": "CVE-1999-1210",
+		"publishTime": "1997-11-12 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "Digital UNIX 4.0B *with*补丁工具包版本5的xterm存在漏洞。本地用户可以借助一个内存转储文件上的符号连接攻击重写任意文件，该文件是xterm不能访问显示器时，由一个DISPLAY环境变量请求xterm而创建的。",
+		"affectedVendor": "digital",
+		"referUrl": "来源: XF\n名称: dec-xterm(613)\n链接:http://xforce.iss.net/static/613.php\n\n来源: BUGTRAQ\n名称: 19971112 Digital Unix Security Problem\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87936891504885\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

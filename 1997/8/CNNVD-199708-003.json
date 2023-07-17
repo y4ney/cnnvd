@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Linux kernel 信息泄露漏洞",
+		"cnnvdCode": "CNNVD-199708-003",
+		"cveCode": "CVE-1999-0524",
+		"publishTime": "1997-08-01 00:00:00",
+		"vendor": "1003118",
+		"hazardLevel": 4,
+		"vulType": "信息泄露",
+		"vulTypeName": "信息泄露",
+		"vulDesc": "Linux kernel是美国Linux基金会的开源操作系统Linux所使用的内核。\r\nLinux kernel存在信息泄露漏洞，该漏洞源于ICMP信息如netmask和timestamp允许任意主机访问。",
+		"affectedVendor": "Linux",
+		"referUrl": "来源:CONFIRM\r\n链接:https://kc.mcafee.com/corporate/index?page=content\u0026id=SB10053\r\n\r\n来源:XF\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/306\r\n\r\n来源:MISC\r\n链接:http://descriptions.securescout.com/tc/11011\r\n\r\n来源:MISC\r\n链接:http://descriptions.securescout.com/tc/11010\r\n\r\n来源:OSVDB\r\n链接:http://www.osvdb.org/95\r\n\r\n来源:CONFIRM\r\n链接:http://kb.juniper.net/InfoCenter/index?page=content\u0026id=JSA10705\r\n\r\n来源:MISC\r\n链接:http://kb.vmware.com/selfservice/microsites/search.do?cmd=displayKC\u0026externalId=1434\r\n\r\n来源:XF\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/322",
+		"updateTime": "2022-11-17 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "信息泄露"
+	}
+}
