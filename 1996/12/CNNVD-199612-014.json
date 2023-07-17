@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Solaris aspppd不安全暂时文件创建漏洞",
+		"cnnvdCode": "CNNVD-199612-014",
+		"cveCode": "CVE-1999-1026",
+		"publishTime": "1996-12-20 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Solaris 2.5 x86版本的aspppd存在漏洞，本地用户可以借助对/tmp/.asppp.fifo文件的符号连接攻击来修改任意文件以及获得根特权。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: BID\n名称: 292\n链接:http://www.securityfocus.com/bid/292\n\n来源: BUGTRAQ\n名称: 19961220 Solaris 2.5 x86 aspppd (semi-exploitable-hole)\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420343\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

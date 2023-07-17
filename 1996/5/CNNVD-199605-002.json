@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "FreeBSD提升特权漏洞",
+		"cnnvdCode": "CNNVD-199605-002",
+		"cveCode": "CVE-1999-1313",
+		"publishTime": "1996-05-23 00:00:00",
+		"vendor": "1001921",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "FreeBSD 2.2以及之前的版本中Manual page reader (man)存在漏洞。本地用户借助一系列命令提升特权。",
+		"affectedVendor": "freeBSD",
+		"referUrl": "来源: CIAC\n名称: G-24\n链接:http://ciac.llnl.gov/ciac/bulletins/g-24.shtml\n\n来源: FREEBSD\n名称: FreeBSD-SA-96:11\n链接:ftp://ftp.FreeBSD.org/pub/FreeBSD/CERT/advisories/old/FreeBSD-SA-96:11.man.asc\n\n来源: XF\n名称: bsd-man-command-sequence(7348)\n链接:http://xforce.iss.net/static/7348.php",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

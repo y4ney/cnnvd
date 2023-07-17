@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "CPIO存储服务器不安全文件创建漏洞",
+		"cnnvdCode": "CNNVD-199607-005",
+		"cveCode": "CVE-1999-1572",
+		"publishTime": "1996-07-16 00:00:00",
+		"isOfficial": 1,
+		"vendor": "1005736",
+		"hazardLevel": 4,
+		"vulType": "设计错误",
+		"vulDesc": "FreeBSD 2.1.0， Debian GNU/Linux 3.0以及可能还包括其他操作系统的cpio，在使用-O (存档)或者-F选项创建文件时会使用一个0 umask，创建了带有0666模式的文件，本地用户可以利用该漏洞读取或覆盖这些文件。",
+		"affectedVendor": "Ubuntu",
+		"referUrl": "来源: XF\n名称: cpio-o-archive-insecure-permissions(19167)\n链接:http://xforce.iss.net/xforce/xfdb/19167\n\n来源: TRUSTIX\n名称: 2005-0003\n链接:http://www.trustix.org/errata/2005/0003/\n\n来源: REDHAT\n名称: RHSA-2005:080\n链接:http://www.redhat.com/support/errata/RHSA-2005-080.html\n\n来源: REDHAT\n名称: RHSA-2005:073\n链接:http://www.redhat.com/support/errata/RHSA-2005-073.html\n\n来源: www.freebsd.org\n链接:http://www.freebsd.org/cgi/query-pr.cgi?pr=bin/1391\n\n来源: DEBIAN\n名称: DSA-664\n链接:http://www.debian.org/security/2005/dsa-664\n\n来源: OVAL\n名称: oval:org.mitre.oval:def:10888\n链接:http://oval.mitre.org/repository/data/getDef?id=oval:org.mitre.oval:def:10888\n\n来源: REDHAT\n名称: RHSA-2005:806\n链接:http://www.redhat.com/support/errata/RHSA-2005-806.html\n\n来源: MANDRAKE\n名称: MDKSA-2005:032\n链接:http://www.mandriva.com/security/advisories?name=MDKSA-2005:032\n\n来源: support.avaya.com\n链接:http://support.avaya.com/elmodocs2/security/ASA-2005-212.pdf\n\n来源: SECUNIA\n名称: 17532\n链接:http://secunia.com/advisories/17532\n\n来源: SECUNIA\n名称: 17063\n链接:http://secunia.com/advisories/17063\n\n来源: SECUNIA\n名称: 14357\n链接:http://secunia.com/advisories/14357\n\n来源: BUGTRAQ\n名称: 20050204 [USN-75-1] cpio vulnerability\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=110763404701519\u0026w=2",
+		"patch": "http://ftp.gnu.org/gnu/cpio/cpio-2.6.tar.gz\"\u003e",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "设计错误"
+	}
+}

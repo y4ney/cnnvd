@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "JJ CGI 安全漏洞",
+		"cnnvdCode": "CNNVD-199612-015",
+		"cveCode": "CVE-1999-0260",
+		"publishTime": "1996-12-24 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "JJ CGI 存在安全漏洞，通过提交特插入特殊字符的数据给JJ可以在服务器上执行任意命令。JJ会将用户输入的数据直接向/bin/mail传递。如果一个恶意用户在提交的数据中插入~字符，那么就可以退到shell里。但是攻击者必须知道程序的口令，遗憾的是该程序通常都是使用HTTPdRocKs或者SDGROCKS的默认口令。口令可以在源代码里修改。",
+		"affectedVendor": "renaud_deraison",
+		"referUrl": "来源:http://nvd.nist.gov/nvd.cfm?cvename=CVE-1999-0260※http://www.nsfocus.net/vulndb/3936\r\n链接:无\r\n\r\n来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0260",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

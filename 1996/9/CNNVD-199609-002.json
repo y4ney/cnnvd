@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SCO UnixWare权限许可和访问控制漏洞",
+		"cnnvdCode": "CNNVD-199609-002",
+		"cveCode": "CVE-1999-1252",
+		"publishTime": "1996-09-04 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "SCO UnixWare 2.0.x和2.1.0版本调用的某个系统存在漏洞，本地用户可以访问任意文件并获取根权限。",
+		"affectedVendor": "sco",
+		"referUrl": "来源: US Government Resource: VB-96.15\n名称: VB-96.15\n链接:http://www.cert.org/vendor_bulletins/VB-96.15.sco\n\n来源: XF\n名称: sco-system-call(1966)\n链接:http://xforce.iss.net/static/1966.php\n\n来源: SCO\n名称: 96:002\n链接:ftp://ftp.sco.COM/SSE/security_bulletins/SB.96:02a",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

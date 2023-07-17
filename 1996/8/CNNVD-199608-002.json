@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Solaris Coredump漏洞",
+		"cnnvdCode": "CNNVD-199608-002",
+		"cveCode": "CVE-1999-1413",
+		"publishTime": "1996-08-03 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "kernel jumbo patch -35版本之前的Solaris 2.4存在漏洞，使得即使不在set-gid组中的用户也可以使用set-grid的程序进行存储器信息转储，本地用户利用该漏洞以更高的权限重写或新建文件，造成存储器信息转储，（如通过dmesg）。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: BID\n名称: 296\n链接:http://www.securityfocus.com/bid/296\n\n来源: BUGTRAQ\n名称: 19960803 Exploiting Zolaris 2.4 ?? :)\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167419549\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "RedHat 2.1 abuse.console漏洞",
+		"cnnvdCode": "CNNVD-199602-001",
+		"cveCode": "CVE-1999-1491",
+		"publishTime": "1996-02-02 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Red Hat 2.1版本的abuse.console使用相对路径来查找和执行undrv程序。本地用户借助指向特洛伊木马程序的路径执行任意命令。",
+		"affectedVendor": "redhat",
+		"referUrl": "来源: BID\n名称: 354\n链接:http://www.securityfocus.com/bid/354\n\n来源: BUGTRAQ\n名称: 19960202 abuse Red Hat 2.1 security hole\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167418994\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

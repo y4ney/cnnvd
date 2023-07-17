@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Sendmail MIME 安全漏洞",
+		"cnnvdCode": "CNNVD-199610-001",
+		"cveCode": "CVE-1999-0206",
+		"publishTime": "1996-10-01 00:00:00",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Sendmail 8.8.0和8.8.1版本的MIME存在安全漏洞，可以被利用来获取根访问权限。",
+		"affectedVendor": "eric_allman",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0206",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

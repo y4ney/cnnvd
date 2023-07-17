@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP-UX服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199606-001",
+		"cveCode": "CVE-1999-1205",
+		"publishTime": "1996-06-07 00:00:00",
+		"vendor": "1002337",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "HP-UX 10.01和10.00版本的nettune安装setuid root。本地用户通过修改关键网络配置信息导致服务拒绝。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: HP\n名称: HPSBUX9607-035\n链接:http://packetstormsecurity.org/advisories/ibm-ers/96-08\n\n来源: BUGTRAQ\n名称: 19960607 HP-UX B.10.01 vulnerability\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167419195\u0026w=2\n\n来源: XF\n名称: hp-nettune(414)\n链接:http://xforce.iss.net/xforce/xfdb/414",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

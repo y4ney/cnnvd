@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Z-Modem协议设计错误漏洞",
+		"cnnvdCode": "CNNVD-199607-004",
+		"cveCode": "CVE-1999-1301",
+		"publishTime": "1996-07-16 00:00:00",
+		"vendor": "1001921",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "Z-Modem协议存在设计缺陷，文件远程发送人可以执行任意客户端程序，如在FreeBSD 2.1.5版本之前的rzsz模块中的rz中，以及可能还包括其他程序中执行时。",
+		"affectedVendor": "freeBSD",
+		"referUrl": "来源: CIAC\n名称: G-31\n链接:http://ciac.llnl.gov/ciac/bulletins/g-31.shtml\n\n来源: FREEBSD\n名称: FreeBSD-SA-96:17\n链接:ftp://ftp.FreeBSD.org/pub/FreeBSD/CERT/advisories/old/FreeBSD-SA-96:17.rzsz.asc\n\n来源: XF\n名称: rzsz-command-execution(7540)\n链接:http://www.iss.net/security_center/static/7540.php",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "删除或创建文件漏洞",
+		"cnnvdCode": "CNNVD-199604-004",
+		"cveCode": "CVE-1999-0019",
+		"publishTime": "1996-04-24 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "由于无效信息，存在借助rpc.statd删除或创建文件的漏洞。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: SUN\n名称: 00135\n链接:http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/135",
+		"updateTime": "2006-09-21 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

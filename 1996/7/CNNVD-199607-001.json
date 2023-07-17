@@ -1,0 +1,20 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Novell NetWare Web Server 安全漏洞",
+		"cnnvdCode": "CNNVD-199607-001",
+		"cveCode": "CVE-1999-0175",
+		"publishTime": "1996-07-01 00:00:00",
+		"isOfficial": 1,
+		"vendor": "1003860",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Novell NetWare Web Server 2.x 版本存在安全漏洞。convert.bas脚本允许提交一个文件名和变量作为它的参数，远程攻击者可以使用 ../../ 就可以遍历目录，访问任意文件。文件访问可能会限制在SYS:卷里。",
+		"affectedVendor": "Novell",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0175",
+		"patch": "http://fdl.novell.com/pub/allupdates/web002.exe\" target=\"_blank\"\u003e",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "phf远程命令执行漏洞",
+		"cnnvdCode": "CNNVD-199603-002",
+		"cveCode": "CVE-1999-0067",
+		"publishTime": "1996-03-20 00:00:00",
+		"vendor": "1000404",
+		"hazardLevel": 1,
+		"vulType": "输入验证",
+		"vulDesc": "phf CGI程序存在漏洞。该漏洞通过shell元字符执行远程命令。",
+		"affectedVendor": "阿帕奇",
+		"referUrl": "来源:CERT/CC Advisory: CA-1996-06\n名称: CA-1996-06\n链接:http://www.cert.org/advisories/CA-1996-06.html\n\n来源: BID\n名称: 629\n链接:http://www.securityfocus.com/bid/629\n\n来源: OSVDB\n名称: 136\n链接:http://www.osvdb.org/136",
+		"updateTime": "2007-02-08 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "输入验证"
+	}
+}

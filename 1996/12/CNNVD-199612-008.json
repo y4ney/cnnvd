@@ -1,0 +1,20 @@
+{
+	"cnnvdDetail": {
+		"vulName": "多家厂商gethostbyname()函数实现远程缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199612-008",
+		"cveCode": "CVE-1999-0101",
+		"publishTime": "1996-12-10 00:00:00",
+		"isOfficial": 1,
+		"vendor": "1002387",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "gethostbyname()是用于通过主机名获得网络地址的函数，使用在多种操作系统下。\ngethostbyname函数把数据拷贝到本地内存缓冲区时缺少正确边界缓冲检查，本地或远程攻击者可以利用这个漏洞进行缓冲区溢出攻击，可能以使用此函数的运行程序权限在系统上执行任意指令。\n当UNIX系统上的程序要查询主机名和获得它的网络地址，一般程序使用\"gethostbyname()\"库函数来解析。这个函数从域名系统中获得主机名作为参数，并返回主机地址给程序，由于对输入参数缺少正确的边界缓冲区检查，如果攻击者提供的超长的主机名参数就可以触发缓冲区溢出，精心构建参数数据可以以调用此库函数的运行程序进程权限在系统上执行任意指令。",
+		"affectedVendor": "国际商业机器",
+		"referUrl": "来源: CIAC\n名称: H-13\n链接:http://ciac.llnl.gov/ciac/bulletins/h-13.shtml",
+		"patch": "http://service.software.ibm.com/aixsupport/\" target=\"_blank\"\u003e",
+		"updateTime": "2005-10-12 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

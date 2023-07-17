@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HPUX sysdiag权限许可和访问控制漏洞",
+		"cnnvdCode": "CNNVD-199609-007",
+		"cveCode": "CVE-1999-0961",
+		"publishTime": "1996-09-21 00:00:00",
+		"vendor": "1002337",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "HPUX sysdiag存在漏洞，本地用户可以在创建登陆文件时，借助创建一个符号链接攻击获取根权限。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: BUGTRAQ\n名称: 19960921 Vunerability in HP sysdiag ?\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167419906\u0026w=2",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

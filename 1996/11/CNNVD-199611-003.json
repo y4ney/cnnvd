@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP-UX ppl权限许可和访问控制漏洞",
+		"cnnvdCode": "CNNVD-199611-003",
+		"cveCode": "CVE-1999-1161",
+		"publishTime": "1996-11-03 00:00:00",
+		"vendor": "1002337",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "运行在HP-UX 10.x和早期版本上的ppl存在漏洞，本地用户可以通过强制将ppl核心转储获取根权限。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: HP\n名称: HPSBUX9704-057\n链接:http://www.codetalker.com/advisories/vendor/hp/hpsbux9704-057.html\n\n来源: CIAC\n名称: H-32\n链接:http://ciac.llnl.gov/ciac/bulletins/h-32.shtml\n\n来源: BUGTRAQ\n名称: 19961104 ppl bugs\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420103\u0026w=2\n\n来源: BUGTRAQ\n名称: 19961103 Re: Untitled\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420102\u0026w=2\n\n来源: XF\n名称: hp-ppl(7438)\n链接:http://www.iss.net/security_center/static/7438.php",
+		"updateTime": "2010-12-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

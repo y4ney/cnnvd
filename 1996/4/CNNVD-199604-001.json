@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "test-cg程序安全漏洞",
+		"cnnvdCode": "CNNVD-199604-001",
+		"cveCode": "CVE-1999-0070",
+		"publishTime": "1996-04-01 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "test-cgi程序中存在安全漏洞。攻击者可利用该漏洞列出服务器上的文件。",
+		"affectedVendor": "ncsa",
+		"referUrl": "来源:httpd.apache.org%3E\r\n链接:httpd.apache.org%3E\r\n\r\n来源:MLIST\r\n链接:https://lists.apache.org/thread.html/rc5d27fc1e76dc5650e1a3f1db1de403120f4c2d041cb7352850455c2@%3Cusers.",
+		"patch": "http://apache.org/",
+		"updateTime": "2020-10-14 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

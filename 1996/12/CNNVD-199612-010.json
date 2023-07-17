@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP-UX chfn命令权限许可和访问控制漏洞",
+		"cnnvdCode": "CNNVD-199612-010",
+		"cveCode": "CVE-1999-1089",
+		"publishTime": "1996-12-13 00:00:00",
+		"vendor": "1002341",
+		"hazardLevel": 2,
+		"vulType": "缓冲区溢出",
+		"vulDesc": "HP-UX 9.X至10.20版本的chfn命令存在缓冲区溢出漏洞。本地用户可以借助一个超长命令行参数获取权限。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: CIAC\n名称: H-21\n链接:http://ciac.llnl.gov/ciac/bulletins/h-21.shtml\n\n来源: CIAC\n名称: H-16\n链接:http://ciac.llnl.gov/ciac/bulletins/h-16.shtml\n\n来源: BUGTRAQ\n名称: 19961209 the HP Bug of the Week!\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420285\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区溢出"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Kerberos UDP包漏洞",
+		"cnnvdCode": "CNNVD-199611-006",
+		"cveCode": "CVE-1999-1099",
+		"publishTime": "1996-11-22 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Kerberos 4存在漏洞，远程攻击者可以借助有问题的UDP包，产生收录域名和最后用户的信息串,获取敏感信息。",
+		"affectedVendor": "kth",
+		"referUrl": "来源: XF\n名称: kerberos-user-grab(65)\n链接:http://xforce.iss.net/static/65.php\n\n来源: BUGTRAQ\n名称: 19961122 L0pht Kerberos Advisory\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602167420184\u0026w=2",
+		"updateTime": "2006-09-27 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

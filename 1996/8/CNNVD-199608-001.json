@@ -1,0 +1,13 @@
+{
+	"cnnvdDetail": {
+		"vulName": "编号撤回",
+		"cnnvdCode": "CNNVD-199608-001",
+		"cveCode": "CVE-1999-0335",
+		"publishTime": "1996-08-01 00:00:00",
+		"vulType": "未知",
+		"vulDesc": "该CVE编号已撤回。",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

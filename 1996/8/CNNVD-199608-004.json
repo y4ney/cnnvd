@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Adobe Framemaker fm_fls license server 安全漏洞",
+		"cnnvdCode": "CNNVD-199608-004",
+		"cveCode": "CVE-1999-0133",
+		"publishTime": "1996-08-14 00:00:00",
+		"vendor": "1000193",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Adobe Framemaker的fm_fls license server存在安全漏洞，本地用户可以借助此漏洞重写任意文件访问根目录。",
+		"affectedVendor": "奥多比",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0133",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}
