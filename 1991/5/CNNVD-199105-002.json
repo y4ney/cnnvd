@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "NeXT NeXTstep漏洞",
+		"cnnvdCode": "CNNVD-199105-002",
+		"cveCode": "CVE-1999-1193",
+		"publishTime": "1991-05-14 00:00:00",
+		"hazardLevel": 1,
+		"vulType": "未知",
+		"vulDesc": "NeXT NeXTstep 2.1和早期版本中\"me\"用户拥有wheel组特权。Me用户可以使用su命令成为根用户。",
+		"affectedVendor": "next",
+		"referUrl": "来源:CERT/CC Advisory: CA-1991-06\n名称: CA-1991-06\n链接:http://www.cert.org/advisories/CA-1991-06.html\n\n来源: XF\n名称: next-me(581)\n链接:http://xforce.iss.net/static/581.php\n\n来源: BID\n名称: 20\n链接:http://www.securityfocus.com/bid/20",
+		"updateTime": "2005-10-12 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

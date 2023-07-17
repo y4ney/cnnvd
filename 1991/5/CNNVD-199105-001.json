@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Digital Ultrix chroot提升特权漏洞",
+		"cnnvdCode": "CNNVD-199105-001",
+		"cveCode": "CVE-1999-1194",
+		"publishTime": "1991-05-01 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "Digital Ultrix 4.1和4.0版本中的chroot被不安全安装，本地用户可以提升特权。",
+		"affectedVendor": "digital",
+		"referUrl": "来源:CERT/CC Advisory: CA-1991-05\n名称: CA-1991-05\n链接:http://www.cert.org/advisories/CA-1991-05.html\n\n来源: XF\n名称: dec-chroot(577)\n链接:http://xforce.iss.net/static/577.php\n\n来源: BID\n名称: 17\n链接:http://www.securityfocus.com/bid/17",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

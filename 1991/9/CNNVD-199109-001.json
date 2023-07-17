@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Macintosh和PC NCSA漏洞",
+		"cnnvdCode": "CNNVD-199109-001",
+		"cveCode": "CVE-1999-1090",
+		"publishTime": "1991-09-10 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "允许FTP的Macintosh和PC上NCSA远程登录数据包的默认配置，即使在不包括 \"ftp=yes\"行的情况下也存在漏洞。远程攻击者可以读取并且修改任意文件。",
+		"affectedVendor": "ncsa",
+		"referUrl": "来源:CERT/CC Advisory: CA-1991-15\n名称: CA-1991-15\n链接:http://www.cert.org/advisories/CA-1991-15.html\n\n来源: XF\n名称: ftp-ncsa(1844)\n链接:http://xforce.iss.net/static/1844.php",
+		"updateTime": "2005-10-12 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}
