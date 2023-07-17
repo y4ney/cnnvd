@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Commodore Amiga UNIX finger读取任意文件漏洞",
+		"cnnvdCode": "CNNVD-199302-002",
+		"cveCode": "CVE-1999-1218",
+		"publishTime": "1993-02-18 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Commodore Amiga UNIX 2.1p2a以及早期版本中的finger存在漏洞。本地用户可以读取任意文件。",
+		"affectedVendor": "commodore",
+		"referUrl": "来源:CERT/CC Advisory: CA-1993-04\n名称: CA-1993-04\n链接:http://www.cert.org/advisories/CA-1993-04.html\n\n来源: XF\n名称: amiga-finger(522)\n链接:http://xforce.iss.net/static/522.php",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

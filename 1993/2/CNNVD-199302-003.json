@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "OpenVMS未明本地页面管理漏洞",
+		"cnnvdCode": "CNNVD-199302-003",
+		"cveCode": "CVE-1999-1312",
+		"publishTime": "1993-02-24 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "DEC OpenVMS VAX 5.5-2到5.0版本，以及OpenVMS AXP 1.0版本存在漏洞。本地用户可以获得系统特权。",
+		"affectedVendor": "dec",
+		"referUrl": "来源:CERT/CC Advisory: CA-1993-05\n名称: CA-1993-05\n链接:http://www.cert.org/advisories/CA-1993-05.html\n\n来源: XF\n名称: openvms-local-privilege-elevation(7142)\n链接:http://xforce.iss.net/static/7142.php",
+		"updateTime": "2006-09-05 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

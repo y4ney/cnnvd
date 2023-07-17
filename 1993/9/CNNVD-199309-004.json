@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Berkeley Sendmail WIZ远程执行任意命令漏洞",
+		"cnnvdCode": "CNNVD-199309-004",
+		"cveCode": "CVE-1999-0145",
+		"publishTime": "1993-09-30 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Sendmail是一个广为使用的Internet邮件传输程序。早期版本的Sendmail程序支持一个WIZ命令，允许管理员执行SHELL命令。远程攻击者指定Sendmail使用WIZ命令后就可以以root用户的权限在主机上执行任意命令。此漏洞被著名的Morris蠕虫所利用。",
+		"affectedVendor": "eric_allman",
+		"referUrl": "来源:FULLDISC\r\n链接:http://seclists.org/fulldisclosure/2019/Jun/16\r\n\r\n来源:BUGTRAQ\r\n链接:http://www2.dataguard.no/bugtraq/1995_1/0332.html\r\n\r\n来源:FARMERVENEMA\r\n链接:http://www.alw.nih.gov/Security/Docs/admin-guide-to-cracking.101.html\r\n\r\n来源:CERT\r\n链接:http://www.cert.org/advisories/CA-1993-14.html\r\n\r\n来源:MLIST\r\n链接:http://www.openwall.com/lists/oss-security/2019/06/06/1\r\n\r\n来源:MLIST\r\n链接:http://www.openwall.com/lists/oss-security/2019/06/05/4\r\n\r\n来源:CERT\r\n链接:http://www.cert.org/advisories/CA-1990-11.html",
+		"patch": "http://www.sendmail.org\" target=\"_blank\"\u003e",
+		"updateTime": "2019-06-12 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

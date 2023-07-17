@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Novell Netware LOGIN.EXE提升特权漏洞",
+		"cnnvdCode": "CNNVD-199309-001",
+		"cveCode": "CVE-1999-1215",
+		"publishTime": "1993-09-16 00:00:00",
+		"vendor": "1003860",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "Novell Netware 4.0和4.01版本上的LOGIN.EXE程序将用户名和密码信息临时写到磁盘上，本地用户可以借助该漏洞提升特权。",
+		"affectedVendor": "Novell",
+		"referUrl": "来源:CERT/CC Advisory: CA-1993-12\n名称: CA-1993-12\n链接:http://www.cert.org/advisories/CA-1993-12.html\n\n来源: XF\n名称: novell-login(545)\n链接:http://xforce.iss.net/static/545.php\n\n来源: CIAC\n名称: D-21\n链接:http://ciac.llnl.gov/ciac/bulletins/d-21.shtml",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}
