@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SunView (SunTools) selection_svc读取文件漏洞",
+		"cnnvdCode": "CNNVD-199008-001",
+		"cveCode": "CVE-1999-0209",
+		"publishTime": "1990-08-14 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "SunView (SunTools) selection_svc设备存在漏洞。远程用户可以借助该漏洞读取文件。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: BID\n名称: 8\n链接:http://www.securityfocus.com/bid/8",
+		"updateTime": "2007-07-13 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

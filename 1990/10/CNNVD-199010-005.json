@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SGI IRIX /usr/sbin/Mail漏洞",
+		"cnnvdCode": "CNNVD-199010-005",
+		"cveCode": "CVE-1999-1554",
+		"publishTime": "1990-10-31 00:00:00",
+		"vendor": "1004925",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "SGI IRIX 3.3和3.3.1版本中的/usr/sbin/Mail不能准确将组ID设置到使用Mail用户的组ID中，本地用户可以读取其他用户的邮件。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源:CERT/CC Advisory: CA-1990-08\n名称: CA-1990-08\n链接:http://www.cert.org/advisories/CA-1990-08.html\n\n来源: BID\n名称: 13\n链接:http://www.securityfocus.com/bid/13\n\n来源: XF\n名称: sgi-irix-reset(3164)\n链接:http://www.iss.net/security_center/static/3164.php",
+		"updateTime": "2010-12-03 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

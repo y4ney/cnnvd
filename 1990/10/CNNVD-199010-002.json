@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "NeXTstep npd漏洞",
+		"cnnvdCode": "CNNVD-199010-002",
+		"cveCode": "CVE-1999-1391",
+		"publishTime": "1990-10-03 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "具有可公共访问打印机的NeXT 1.0a和1.0版本存在漏洞。本地用户可以借助npd程序和弱目录访问权限的结合提升特权。",
+		"affectedVendor": "next",
+		"referUrl": "来源:CERT/CC Advisory: CA-1990-06\n名称: CA-1990-06\n链接:http://www.cert.org/advisories/CA-1990-06.html\n\n来源: CIAC\n名称: B-01\n链接:http://ciac.llnl.gov/ciac/bulletins/b-01.shtml\n\n来源: BID\n名称: 10\n链接:http://www.securityfocus.com/bid/10\n\n来源: XF\n名称: nextstep-npd-root-access(7143)\n链接:http://www.iss.net/security_center/static/7143.php",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}
