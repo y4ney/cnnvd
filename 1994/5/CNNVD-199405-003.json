@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP Vue获取根权限漏洞",
+		"cnnvdCode": "CNNVD-199405-003",
+		"cveCode": "CVE-1999-1134",
+		"publishTime": "1994-05-18 00:00:00",
+		"vendor": "1002337",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "HP 9.x版本中的Vue 3.0存在漏洞。本地用户可以获取根权限，正如PHSS_4038， PHSS_4055， 和PHSS_4066修复的。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: CIAC\n名称: E-23\n链接:http://ciac.llnl.gov/ciac/bulletins/e-23.shtml\n\n来源: XF\n名称: hp-vue(2284)\n链接:http://www.iss.net/security_center/static/2284.php\n\n来源: HP\n名称: HPSBUX9404-008\n链接:http://packetstorm.securify.com/advisories/hpalert/008",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

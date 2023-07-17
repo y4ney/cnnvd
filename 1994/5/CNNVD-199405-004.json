@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "AIX login登录参数处理漏洞",
+		"cnnvdCode": "CNNVD-199405-004",
+		"cveCode": "CVE-1999-0113",
+		"publishTime": "1994-05-23 00:00:00",
+		"isOfficial": 1,
+		"vendor": "1002383",
+		"hazardLevel": 1,
+		"vulDesc": "rlogin的一些实现中存在漏洞。攻击者利用该漏洞用‘-froot’参数，根权限访问。",
+		"affectedVendor": "国际商业机器",
+		"referUrl": "来源: BID\r\n名称: 458\r\n链接:http://www.securityfocus.com/bid/458",
+		"patch": "http://www.ers.ibm.com/\" target=\"_blank\"\u003e",
+		"updateTime": "2012-11-28 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch"
+	}
+}

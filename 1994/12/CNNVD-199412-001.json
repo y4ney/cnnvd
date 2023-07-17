@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Red Hat Linux服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199412-001",
+		"cveCode": "CVE-2000-0508",
+		"publishTime": "1994-12-19 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Red Hat Linux 6.1和6.2版本中的rpc.lockd存在漏洞。远程攻击者可以通过恶意请求导致服务拒绝。",
+		"affectedVendor": "redhat",
+		"referUrl": "来源: BID\n名称: 1372\n链接:http://www.securityfocus.com/bid/1372\n\n来源: BUGTRAQ\n名称: 20000608 Remote DOS in linux rpc.lockd\n链接:http://archives.neohapsis.com/archives/bugtraq/2000-06/0073.html\n\n来源: XF\n名称: linux-lockd-remote-dos\n链接:http://xforce.iss.net/static/5050.php",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

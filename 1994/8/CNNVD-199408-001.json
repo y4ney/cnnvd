@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Silicon Graphics IRIX漏洞",
+		"cnnvdCode": "CNNVD-199408-001",
+		"cveCode": "CVE-1999-1494",
+		"publishTime": "1994-08-09 00:00:00",
+		"vendor": "1004925",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Silicon Graphics IRIX 5.1， 5.2，和 6.0版本中的colorview 存在漏洞，本地用户可以通过-text参数来读取任意文件。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源: XF\n名称: sgi-colorview(2112)\n链接:http://xforce.iss.net/static/2112.php\n\n来源: BUGTRAQ\n名称: 19950307 sigh. another Irix 5.2 hole.\n链接:http://www.tryc.on.ca/archives/bugtraq/1995_1/0614.html\n\n来源: BID\n名称: 336\n链接:http://www.securityfocus.com/bid/336\n\n来源: SGI\n名称: 19950209-00-P\n链接:ftp://patches.sgi.com/support/free/security/advisories/19950209-01-P\n\n来源: BUGTRAQ\n名称: 19940809 Re: IRIX 5.2 Security Advisory\n链接:http://www.securityfocus.com/archive/1/675",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

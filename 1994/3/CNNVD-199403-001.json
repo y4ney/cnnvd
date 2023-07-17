@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Sun/Solaris utmp文件漏洞",
+		"cnnvdCode": "CNNVD-199403-001",
+		"cveCode": "CVE-1999-0120",
+		"publishTime": "1994-03-21 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "Sun/Solaris utmp文件存在漏洞。当非根用户可写该文件的时候，本地用户可以获得根访问权限。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: SUN\n名称: 00126\n链接:http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/126",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

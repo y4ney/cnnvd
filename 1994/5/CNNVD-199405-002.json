@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SunOS passwd覆盖任意文件漏洞",
+		"cnnvdCode": "CNNVD-199405-002",
+		"cveCode": "CVE-1999-1388",
+		"publishTime": "1994-05-13 00:00:00",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "SunOS 4.1.x版本中的passwd存在漏洞。本地用户借助符号链接攻击和-F命令行参数覆盖任意文件。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: BUGTRAQ\n名称: 19940514 [8lgm]-Advisory-7.UNIX.passwd.11-May-1994.NEWFIX\n链接:http://www2.dataguard.no/bugtraq/1994_2/0207.html\n\n来源: BUGTRAQ\n名称: 19940513 [8lgm]-Advisory-7.UNIX.passwd.11-May-1994\n链接:http://www2.dataguard.no/bugtraq/1994_2/0197.html\n\n来源: BUGTRAQ\n名称: 19941218 Sun Patch Id #102060-01\n链接:http://www.dataguard.no/bugtraq/1994_4/0755.html",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

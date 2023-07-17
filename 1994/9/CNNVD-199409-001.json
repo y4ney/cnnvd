@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP-UX提升特权漏洞",
+		"cnnvdCode": "CNNVD-199409-001",
+		"cveCode": "CVE-1999-1238",
+		"publishTime": "1994-09-21 00:00:00",
+		"vendor": "1002337",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "HP-UX 9.05及其早期版本HP信息目录中的CORE-DIAG文件集存在漏洞。本地用户可以提升特权。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: XF\n名称: hp-core-diag-fileset(2262)\n链接:http://xforce.iss.net/static/2262.php\n\n来源: HP\n名称: HPSBUX9409-017\n链接:http://www.securityfocus.com/advisories/1531",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

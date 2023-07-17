@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "AIX dpsexec漏洞",
+		"cnnvdCode": "CNNVD-199407-002",
+		"cveCode": "CVE-1999-1552",
+		"publishTime": "1994-07-20 00:00:00",
+		"vendor": "1002383",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "IBM AIX 3.2.5及其早期版本中的dpsexec(DPS服务器)当运行的时候不能正确的检查权限，本地用户可以覆盖任意文件和提升特权。",
+		"affectedVendor": "国际商业机器",
+		"referUrl": "来源: BID\n名称: 358\n链接:http://www.securityfocus.com/bid/358\n\n来源: BUGTRAQ\n名称: 19940720 xnews and XDM\n链接:http://lists.insecure.org/lists/bugtraq/1994/Jul/0038.html",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

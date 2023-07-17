@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "IRIX serial_ports漏洞",
+		"cnnvdCode": "CNNVD-199410-001",
+		"cveCode": "CVE-1999-1022",
+		"publishTime": "1994-10-02 00:00:00",
+		"vendor": "1004925",
+		"hazardLevel": 3,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "IRIX 4.x 和5.x版本中的serial_ports管理程序通过信任用户的PATH环境变量来发现和执行ls程序。本地用户可以通过特洛伊木马ls程序来获取根权限。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源: XF\n名称: sgi-serialports(2111)\n链接:http://xforce.iss.net/static/2111.php\n\n来源: BID\n名称: 464\n链接:http://www.securityfocus.com/bid/464\n\n来源: BUGTRAQ\n名称: 19941002 \n链接:http://www.securityfocus.com/archive/1/930",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

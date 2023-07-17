@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SCO UNIX获取根权限漏洞",
+		"cnnvdCode": "CNNVD-199411-002",
+		"cveCode": "CVE-1999-1302",
+		"publishTime": "1994-11-30 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "SCO UNIX 4.2及其早期版本中的pt_chmod存在未明漏洞。本地用户可以获取根权限。",
+		"affectedVendor": "sco",
+		"referUrl": "来源: CIAC\n名称: F-05\n链接:http://ciac.llnl.gov/ciac/bulletins/f-05.shtml\n\n来源: XF\n名称: sco-pt_chmod(7586)\n链接:http://xforce.iss.net/xforce/xfdb/7586\n\n来源: OSVDB\n名称: 8797\n链接:http://www.osvdb.org/8797\n\n来源: CERT\n名称: VB-94:01\n链接:http://ftp.cerias.purdue.edu/pub/advisories/cert/cert_bulletins/VB-94:01.sco",
+		"updateTime": "2007-01-10 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}
