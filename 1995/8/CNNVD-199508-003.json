@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Sendmail V.5 -oR特权提升漏洞",
+		"cnnvdCode": "CNNVD-199508-003",
+		"cveCode": "CVE-1999-1580",
+		"publishTime": "1995-08-23 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 2,
+		"vulType": "输入验证",
+		"vulDesc": "SunOS sendmail 5.59到5.65版本使用popen处理转发主机参数。本地用户通过修改IFS\n（内部字段分隔符\n）变量和传递畸形值给-oR选项提升根特权。",
+		"affectedVendor": "sendmail",
+		"referUrl": "来源:CERT/CC Advisory: CA-95.11.sun.sendmail-oR.vul\n名称: CA-1995-11\n链接:http://www.cert.org/advisories/CA-95.11.sun.sendmail-oR.vul\n\n来源:US-CERT Vulnerability Note: VU#3278\n名称: VU#3278\n链接:http://www.kb.cert.org/vuls/id/3278\n\n来源: BID\n名称: 7829\n链接:http://www.securityfocus.com/bid/7829\n\n来源: AUSCERT\n名称: AA-95.09\n链接:http://www.auscert.org.au/render.html?it=1853\u0026cid=1978\n\n来源: www.alw.nih.gov\n链接:http://www.alw.nih.gov/Security/8lgm/8lgm-Advisory-21.html",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "输入验证"
+	}
+}

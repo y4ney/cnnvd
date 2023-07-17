@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "AnyForm脚本远程可执行任意命令漏洞",
+		"cnnvdCode": "CNNVD-199507-001",
+		"cveCode": "CVE-1999-0066",
+		"publishTime": "1995-07-31 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "输入验证",
+		"vulDesc": "AnyForm是一个利用简单表单发送Email的CGI脚本，由John Roberts编写。\nAnyForm版本2(AnyForm2)实现上存在输入验证漏洞，远程攻击者可以利用此漏洞在主机上以Web进程的权限执行任意命令。\nAnyForm未经检查就把从表单得到的用户输入传递给SYSTEM系统调用，远程攻击者可能在输入中插入\";\"等转义字符而执行任意命令。\n\u003c**\u003e",
+		"affectedVendor": "john_s._roberts",
+		"referUrl": "来源: BID\n名称: 719\n链接:http://www.securityfocus.com/bid/719",
+		"updateTime": "2006-11-16 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "输入验证"
+	}
+}

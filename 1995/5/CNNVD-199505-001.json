@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Solaris rmmount Setuid文件漏洞",
+		"cnnvdCode": "CNNVD-199505-001",
+		"cveCode": "CVE-1999-1080",
+		"publishTime": "1995-05-10 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "SunOS 5.7 版本中的rmmount可以挂载没有nosuid标志设置的文件系统，违背了在SunOS先前版本中的文件及其使用。当文件系统没有rmmount.conf中指定的nosuid选项时，具有物理访问的本地用户可以通过安装含有setuid程序和运行volcheck的软盘或CD - ROM获取根权限。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: BUGTRAQ\n名称: 19990510 SunOS 5.7 rmmount, no nosuid.\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=92633694100270\u0026w=2\n\n来源: BUGTRAQ\n名称: 19991011\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=93971288323395\u0026w=2\n\n来源: XF\n名称: solaris-rmmount-gain-root(8350)\n链接:http://xforce.iss.net/xforce/xfdb/8350\n\n来源: BID\n名称: 250\n链接:http://www.securityfocus.com/bid/250",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

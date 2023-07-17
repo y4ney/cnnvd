@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Guessable magic 安全漏洞",
+		"cnnvdCode": "CNNVD-199511-001",
+		"cveCode": "CVE-1999-0241",
+		"publishTime": "1995-11-01 00:00:00",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Guessable magic cookies存在安全漏洞。远程攻击者通过例如xterm执行命令。",
+		"affectedVendor": "xfree86_project",
+		"referUrl": "来源:http://nvd.nist.gov/nvd.cfm?cvename=CVE-1999-0241\r\n链接:无\r\n\r\n来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0241",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

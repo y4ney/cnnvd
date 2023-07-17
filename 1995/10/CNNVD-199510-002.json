@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Telnet 安全漏洞",
+		"cnnvdCode": "CNNVD-199510-002",
+		"cveCode": "CVE-1999-0073",
+		"publishTime": "1995-10-13 00:00:00",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Telnet存在安全漏洞，该漏洞源于Telnet允许远程客户指定包括LD_LIBRARY_PATH的环境变量，攻击者绕过正常的系统库，并提升根权限。",
+		"affectedVendor": "digital",
+		"referUrl": "来源:http://nvd.nist.gov/nvd.cfm?cvename=CVE-1999-0073\r\n链接:无\r\n\r\n来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0073",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}
