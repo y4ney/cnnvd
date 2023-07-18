@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Linux拒绝服务漏洞",
+		"cnnvdCode": "CNNVD-199812-021",
+		"cveCode": "CVE-1999-1285",
+		"publishTime": "1998-12-27 00:00:00",
+		"vendor": "1003118",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Linux 2.1.132及更早版本存在漏洞。本地用户借助读取一个随机服务（如/dev/urandom）的大型指针导致服务拒绝，读取期间不允许中断。",
+		"affectedVendor": "Linux",
+		"referUrl": "来源: BUGTRAQ\n名称: 19981227 [patch] fix for urandom read(2) not interruptible\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=91495921611500\u0026w=2\n\n来源: XF\n名称: linux-random-read-dos(1472)\n链接:http://xforce.iss.net/static/1472.php",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

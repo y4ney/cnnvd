@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Compaq/Microcom 6000 Access Integrator猜测用户名和密码漏洞",
+		"cnnvdCode": "CNNVD-199806-007",
+		"cveCode": "CVE-1999-1152",
+		"publishTime": "1998-06-03 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Compaq/Microcom 6000 Access Integrator在一定数量的登录尝试失败后不会断开客户端，远程攻击者借助强力攻击猜测用户名和密码。",
+		"affectedVendor": "compaq_microcom",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980603 Compaq/Microcom 6000 DoS + more\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90296493106214\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "BNC IRC端口缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199812-020",
+		"cveCode": "CVE-1999-0968",
+		"publishTime": "1998-12-26 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "缓冲区溢出",
+		"vulDesc": "BNC IRC代理存在缓冲区溢出漏洞。远程攻击者可以利用其获得权限。",
+		"affectedVendor": "james_seter",
+		"referUrl": "来源: XF\n名称: bnc-proxy-bo(1546)\n链接:http://xforce.iss.net/static/1546.php\n\n来源: BID\n名称: 1927\n链接:http://www.securityfocus.com/bid/1927\n\n来源: BUGTRAQ\n名称: 19981226 bnc exploit\n链接:http://www.securityfocus.com/archive/1/11711",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区溢出"
+	}
+}

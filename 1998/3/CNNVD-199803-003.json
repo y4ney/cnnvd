@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Info2www CGI Input Handling 漏洞",
+		"cnnvdCode": "CNNVD-199803-003",
+		"cveCode": "CVE-1999-0266",
+		"publishTime": "1998-03-01 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "输入验证",
+		"vulDesc": "The info2www CGI脚本存在漏洞。该漏洞允许远程访问文件或远程执行命令。",
+		"affectedVendor": "roar_smith",
+		"referUrl": "来源: BID\n名称: 1995\n链接:http://www.securityfocus.com/bid/1995",
+		"updateTime": "2005-09-08 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "输入验证"
+	}
+}

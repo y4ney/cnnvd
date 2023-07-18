@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "FLEXlm许可管理器服务器关闭漏洞",
+		"cnnvdCode": "CNNVD-199809-014",
+		"cveCode": "CVE-1999-1054",
+		"publishTime": "1998-09-25 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "FLEXlm许可管理器6.0d版本及其他可能的版本中的默认配置存在漏洞。远程攻击者通过lmdown命令关闭服务器。",
+		"affectedVendor": "globetrotter",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980925 Globetrotter FlexLM 'lmdown' bogosity\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90675672323825\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

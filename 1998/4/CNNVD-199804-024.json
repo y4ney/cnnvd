@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Debian /usr/bin/suidexec漏洞",
+		"cnnvdCode": "CNNVD-199804-024",
+		"cveCode": "CVE-1999-1390",
+		"publishTime": "1998-04-28 00:00:00",
+		"vendor": "1001333",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "Debian 2.0版本上suidmanager的suidexec存在漏洞。本地用户可以制定命令行中的恶意程序获得根权限。",
+		"affectedVendor": "Debian",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980428 [Debian 2.0] /usr/bin/suidexec gives root access\n链接:http://darwin.bio.uci.edu/~mcoogan/bugtraq/msg00890.html\n\n来源: BID\n名称: 94\n链接:http://www.securityfocus.com/bid/94",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

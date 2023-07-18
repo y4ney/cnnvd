@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "N-Base交换机漏洞",
+		"cnnvdCode": "CNNVD-199807-025",
+		"cveCode": "CVE-1999-1420",
+		"publishTime": "1998-07-20 00:00:00",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "NBase 交换机 NH2012、NH2012R、NH2015以及NH2048有一个不可关闭的非法途径密码，远程攻击者借此修改交换机的配置。",
+		"affectedVendor": "n-base",
+		"referUrl": "来源: BID\n名称: 212\n链接:http://www.securityfocus.com/bid/212\n\n来源: BUGTRAQ\n名称: 19980722 N-Base Vulnerability Advisory Followup\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221104526065\u0026w=2\n\n来源: BUGTRAQ\n名称: 19980720 N-Base Vulnerability Advisory\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221104526016\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

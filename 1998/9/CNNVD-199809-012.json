@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Netware NDS默认特权漏洞",
+		"cnnvdCode": "CNNVD-199809-012",
+		"cveCode": "CVE-1999-1020",
+		"publishTime": "1998-09-18 00:00:00",
+		"vendor": "1003868",
+		"hazardLevel": 2,
+		"vulType": "配置错误",
+		"vulTypeName": "配置错误",
+		"vulDesc": "Novell Netware NDS 5.99版本的安装为一个树提供带有Read使用权的未经认证的客户端，导致远程攻击者借助CX.EXE和NLIST.EXE访问敏感信息，例如：用户、群组以及可读对象。",
+		"affectedVendor": "Novell",
+		"referUrl": "来源: XF\n名称: novell-nds(1364)\n链接:http://xforce.iss.net/static/1364.php\n\n来源: BID\n名称: 484\n链接:http://www.securityfocus.com/bid/484\n\n来源: BUGTRAQ\n名称: 19980918 NMRC Advisory - Default NDS Rights\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90613355902262\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "配置错误"
+	}
+}

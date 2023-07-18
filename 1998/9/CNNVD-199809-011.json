@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Sun的ping程序缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199809-011",
+		"cveCode": "CVE-1999-0056",
+		"publishTime": "1998-09-09 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "缓冲区溢出",
+		"vulDesc": "Sun的ping程序存在缓冲区溢出漏洞，本地用户可以获得根特权。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: SUN\n名称: 00174\n链接:http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/174",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区溢出"
+	}
+}

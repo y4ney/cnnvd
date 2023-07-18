@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Predictive让步数据传送漏洞",
+		"cnnvdCode": "CNNVD-199807-031",
+		"cveCode": "CVE-1999-1136",
+		"publishTime": "1998-07-30 00:00:00",
+		"vendor": "1002341",
+		"hazardLevel": 3,
+		"vulType": "信息泄露",
+		"vulTypeName": "信息泄露",
+		"vulDesc": "HP-UX 11.0版本和之前版本，以及MPE/iX 5.5版本和之前版本上的Predictive存在漏洞。该漏洞允许攻击者为了客户和Response Center Predictive系统之间的Predictive消息（使用邮件或调制解调器），向数据传送让步。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: XF\n名称: mpeix-predictive(1413)\n链接:http://xforce.iss.net/static/1413.php\n\n来源: HP\n名称: HPSBUX9807-081\n链接:http://www.codetalker.com/advisories/vendor/hp/hpsbux9807-081.html\n\n来源: CIAC\n名称: I-081\n链接:http://www.ciac.org/ciac/bulletins/i-081.shtml\n\n来源: BUGTRAQ\n名称: 19980729 HP-UX Predictive \u0026 Netscape SSL Vulnerabilities\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221104526177\u0026w=2\n\n来源: HP\n名称: HPSBMP9807-005\n链接:http://cert.ip-plus.net/bulletin-archive/msg00040.html",
+		"updateTime": "2005-08-17 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "信息泄露"
+	}
+}

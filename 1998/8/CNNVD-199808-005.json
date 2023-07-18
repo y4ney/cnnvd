@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP OpenView Omniback 安全漏洞",
+		"cnnvdCode": "CNNVD-199808-005",
+		"cveCode": "CVE-1999-0333",
+		"publishTime": "1998-08-01 00:00:00",
+		"vendor": "1002341",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "HP OpenView Omniback存在安全漏洞。HP OpenView Omniback借助欺骗允许远程命令作为根执行，并且本地用户可以借助符号连接攻击获得根使用权。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0333",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

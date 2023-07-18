@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Linux Corel Word Perfect信息修改漏洞",
+		"cnnvdCode": "CNNVD-199812-016",
+		"cveCode": "CVE-1999-1173",
+		"publishTime": "1998-12-18 00:00:00",
+		"vendor": "1001179",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Linux下Corel Word Perfect 8会创建具有全域可读权限的临时工作目录，本地用户可以利用该漏洞进行以下操作：（1）借助修改工作目录下的文件修改Word Perfect操作，（2）借助一个符号链接攻击修改其他用户的文件。",
+		"affectedVendor": "科立尔数字科技",
+		"referUrl": "来源: BUGTRAQ\n名称: 19981218 wordperfect 8 for linux security\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=91404045014047\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

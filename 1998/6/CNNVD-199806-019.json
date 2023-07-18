@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Microsoft Exchange Server、Internet Information Server和Site Server 加密问题漏洞",
+		"cnnvdCode": "CNNVD-199806-019",
+		"cveCode": "CVE-1999-0007",
+		"publishTime": "1998-06-26 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 3,
+		"vulType": "加密问题",
+		"vulTypeName": "加密问题",
+		"vulDesc": "Microsoft Exchange Server和Microsoft Internet Information Services（IIS）都是美国微软（Microsoft）公司的产品。Microsoft Exchange Server是一套电子邮件服务程序。它提供邮件存取、储存、转发，语音邮件，邮件过滤筛选等功能。Microsoft Internet Information Services是一款适用于Windows Server平台的Web服务器。\r\nMicrosoft Exchange Server、Internet Information Server和Site Server中存在加密问题漏洞。该漏洞源于网络系统或产品未正确使用相关密码算法，导致内容未正确加密、弱加密、明文存储敏感信息等。以下产品及版本受到影响：Microsoft Exchange Server 5.5版本；Internet Information Server 3.0版本，4.0版本；Site Server 3.0版本。",
+		"affectedVendor": "ssleay",
+		"referUrl": "来源:MS\r\n链接:https://docs.microsoft.com/en-us/security-updates/securitybulletins/1998/ms98-002",
+		"patch": "https://docs.microsoft.com/en-us/security-updates/securitybulletins/1998/ms98-002",
+		"updateTime": "2020-04-07 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "加密问题"
+	}
+}

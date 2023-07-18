@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "FreeBSD mmap函数漏洞",
+		"cnnvdCode": "CNNVD-199802-014",
+		"cveCode": "CVE-1999-0323",
+		"publishTime": "1998-02-20 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "FreeBSD mmap函数存在漏洞。用户可以利用该漏洞修改只扩展或不可变文件。",
+		"affectedVendor": "bsdi",
+		"referUrl": "来源: NETBSD\n名称: 1998-003\n链接:ftp://ftp.NetBSD.ORG/pub/NetBSD/misc/security/advisories/NetBSD-SA1998-003.txt.asc",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

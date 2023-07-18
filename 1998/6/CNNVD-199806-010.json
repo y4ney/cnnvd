@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Sun ftpd守护进程拒绝服务漏洞",
+		"cnnvdCode": "CNNVD-199806-010",
+		"cveCode": "CVE-1999-0054",
+		"publishTime": "1998-06-10 00:00:00",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "Sun的ftpd守护进程受到服务拒绝攻击。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: SUN\n名称: 00171\n链接:http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/171",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

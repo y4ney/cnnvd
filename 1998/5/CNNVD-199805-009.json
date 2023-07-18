@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Check Point Firewall漏洞",
+		"cnnvdCode": "CNNVD-199805-009",
+		"cveCode": "CVE-1999-1204",
+		"publishTime": "1998-05-11 00:00:00",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "Check Point Firewall-1 不能在对户定义对象正确操作限制关键字（如Mail,auth,time），这可以产生一个默认“ANY”地址规则并访问超过管理者预期的系统。",
+		"affectedVendor": "checkpoint",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980511 Firewall-1 Reserved Keywords Vulnerability\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221101925912\u0026w=2\n\n来源: www.checkpoint.com\n链接:http://www.checkpoint.com/techsupport/config/keywords.html\n\n来源: XF\n名称: fw1-user-defined-keywords-access(7293)\n链接:http://xforce.iss.net/static/7293.php\n\n来源: OSVDB\n名称: 4416\n链接:http://www.osvdb.org/4416",
+		"updateTime": "2006-01-04 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

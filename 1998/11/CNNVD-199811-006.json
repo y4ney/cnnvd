@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "NukeNabber拒绝服务和CPU耗损漏洞",
+		"cnnvdCode": "CNNVD-199811-006",
+		"cveCode": "CVE-1999-1284",
+		"publishTime": "1998-11-05 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "NukeNabber存在漏洞。远程攻击者可以不用发送任何数据，通过连接到NukeNabber端口（1080）的方式导致服务拒绝，导致执行在连接之上的report.exe程序使CPU消耗提升到100%",
+		"affectedVendor": "puppets_place",
+		"referUrl": "来源: XF\n名称: nukenabber-timeout-dos(1540)\n链接:http://xforce.iss.net/static/1540.php\n\n来源: BUGTRAQ\n名称: 19981105 various *lame* DoS attacks\n链接:http://www.securityfocus.com/archive/1/11131\n\n来源: www.dynamsol.com\n链接:http://www.dynamsol.com/puppet/text/new.txt\n\n来源: BUGTRAQ\n名称: 19981107 Re: various *lame* DoS attacks\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=91063407332594\u0026w=2",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Eudora及Eudora Light崩溃漏洞",
+		"cnnvdCode": "CNNVD-199807-029",
+		"cveCode": "CVE-1999-1448",
+		"publishTime": "1998-07-29 00:00:00",
+		"vendor": "1004485",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Eudora及Eudora Light 3.05之前的版本存在漏洞。远程攻击者借助一条电子邮件信息导致崩溃并且使用户邮箱损坏，该电子邮件信息带有某些数据，例如：（1）导致Divide By Zero错误的1970之前的数据，或者（2）导致分段错误的在现有数据100年之后的数据。",
+		"affectedVendor": "高通",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980729 Eudora exploit (was Microsoft Security Bulletin (MS98-008))\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221104526168\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

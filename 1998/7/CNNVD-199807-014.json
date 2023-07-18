@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Solaris libnsl 安全漏洞",
+		"cnnvdCode": "CNNVD-199807-014",
+		"cveCode": "CVE-1999-0213",
+		"publishTime": "1998-07-15 00:00:00",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Solaris的libnsl中存在安全漏洞，攻击者利用该漏洞导致rpcbind的服务拒绝。",
+		"affectedVendor": "sun",
+		"referUrl": "来源:MISC\r\n链接:http://www.securityfocus.com/archive/1/9749",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

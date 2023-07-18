@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "KDE kppp目录创建漏洞",
+		"cnnvdCode": "CNNVD-199811-015",
+		"cveCode": "CVE-1999-0782",
+		"publishTime": "1998-11-18 00:00:00",
+		"vendor": "1001925",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "KDE kppp存在漏洞。本地用户可以利用HOME环境变量，在任意位置创建一个目录。",
+		"affectedVendor": "freeBSD",
+		"referUrl": "来源: BUGTRAQ\n名称: 19981118 Multiple KDE security vulnerabilities (root compromise)\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=91141486301691\u0026w=2",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "nlog CGI脚本系统命令注入漏洞",
+		"cnnvdCode": "CNNVD-199812-018",
+		"cveCode": "CVE-1999-1278",
+		"publishTime": "1998-12-25 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "nlog CGI脚本没有正确过滤IP地址参数的shell元字符，使得远程攻击者可以借助以下文件执行某些命令(1) nlog-smb.pl or (2) rpc-nlog.pl。",
+		"affectedVendor": "nlog",
+		"referUrl": "来源: XF\n名称: http-cgi-nlog-netbios(1550)\n链接:http://xforce.iss.net/static/1550.php\n\n来源: BUGTRAQ\n名称: 19981226 Nlog 1.1b released - security holes fixed\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=91471400632145\u0026w=2\n\n来源: BUGTRAQ\n名称: 19981225 Re: Nlog v1.0 Released - Nmap 2.x log management / analyzing tool\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=91470326629357\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

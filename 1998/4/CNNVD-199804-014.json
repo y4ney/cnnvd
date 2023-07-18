@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "IRIX ipxchk漏洞",
+		"cnnvdCode": "CNNVD-199804-014",
+		"cveCode": "CVE-1999-1501",
+		"publishTime": "1998-04-08 00:00:00",
+		"vendor": "1004938",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "SGI OS2 IRIX 6.3版本中的（1）ipxchk和（2）ipxlinkipxlink在执行系统呼叫前不能正确清除环境变量，本地用户可以利用该漏洞执行任意命令。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源: BID\n名称: 71\n链接:http://www.securityfocus.com/bid/71\n\n来源: BID\n名称: 70\n链接:http://www.securityfocus.com/bid/70\n\n来源: BUGTRAQ\n名称: 19980408 SGI O2 ipx security issue\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=89217373930054\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

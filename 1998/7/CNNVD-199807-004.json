@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "StarTech (1) POP3 proxy 服务器和 (2) telnet 服务器拒绝服务漏洞",
+		"cnnvdCode": "CNNVD-199807-004",
+		"cveCode": "CVE-1999-1202",
+		"publishTime": "1998-07-03 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "StarTech (1) POP3 proxy服务器和(2) telnet服务器中存在漏洞，远程攻击者借助超长的USER命令导致服务拒绝。",
+		"affectedVendor": "startech",
+		"referUrl": "来源: XF\n名称: startech-pop3-overflow(2088)\n链接:http://xforce.iss.net/static/2088.php\n\n来源: BUGTRAQ\n名称: 19980703 Windows95 Proxy DoS Vulnerabilites\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221104525873\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

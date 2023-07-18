@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "DIT TransferPro设备许可漏洞",
+		"cnnvdCode": "CNNVD-199801-011",
+		"cveCode": "CVE-1999-1429",
+		"publishTime": "1998-01-05 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "DIT TransferPro安装带有world-readable及world-writable许可的设备。本地用户可以通过ff设备驱动程序破坏磁盘。",
+		"affectedVendor": "dit",
+		"referUrl": "来源: BID\n名称: 204\n链接:http://www.securityfocus.com/bid/204\n\n来源: BUGTRAQ\n名称: 19980105 Security flaw in either DIT TransferPro or Solaris\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88419633507543\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

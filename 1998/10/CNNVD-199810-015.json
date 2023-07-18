@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "IRIX and AIX automountd services (autofsd)命令执行漏洞。",
+		"cnnvdCode": "CNNVD-199810-015",
+		"cveCode": "CVE-1999-0088",
+		"publishTime": "1998-10-26 00:00:00",
+		"vendor": "1002387",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "IRIX and AIX automountd services (autofsd)存在漏洞。远程用户可以执行根命令。",
+		"affectedVendor": "国际商业机器",
+		"referUrl": "Vulnerable software and versionsConfiguration 1OR* cpe:/o:ibm:aix:4.3* Denotes Vulnerable Software* Changes related to vulnerability configurations\n\nTechnical DetailsVulnerability Type (View All)\nCVE Standard Vulnerability Entry:http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-1999-0088",
+		"updateTime": "2007-07-13 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

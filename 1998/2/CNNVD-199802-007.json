@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Slackware imapd及ipop3d存储器内容更新漏洞",
+		"cnnvdCode": "CNNVD-199802-007",
+		"cveCode": "CVE-1999-1445",
+		"publishTime": "1998-02-02 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "带有可加阴影的Slackware 3.4及3.3版本中的imapd及ipop3d存在漏洞。远程攻击者借助不提供有效用户名和密码的一个短的USRE序列和PASS命令，导致存储器内容更新。",
+		"affectedVendor": "slackware",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980202 imapd/ipop3d coredump in slackware 3.4\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88637951600184\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

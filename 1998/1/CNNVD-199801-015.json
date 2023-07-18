@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "RealServer pnserver服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199801-015",
+		"cveCode": "CVE-1999-1045",
+		"publishTime": "1998-01-15 00:00:00",
+		"vendor": "1004571",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "RealServer 5.0版本及之前版本中的pnserver存在漏洞。远程攻击者通过发送一个短的畸形的请求导致服务拒绝。",
+		"affectedVendor": "RealNetworks",
+		"referUrl": "来源: service.real.com\n链接:http://service.real.com/help/faq/serv501.html\n\n来源: BUGTRAQ\n名称: 19980817 Re: Real Audio Server Version 5 bug?\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90338245305236\u0026w=2\n\n来源: BUGTRAQ\n名称: 19980115 pnserver exploit..\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88492978527261\u0026w=2\n\n来源: BUGTRAQ\n名称: 19980115 [rootshell] Security Bulletin #7\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88490880523890\u0026w=2\n\n来源: OSVDB\n名称: 6979\n链接:http://www.osvdb.org/6979\n\n来源: XF\n名称: realserver-pnserver-remote-dos(7297)\n链接:http://www.iss.net/security_center/static/7297.php",
+		"updateTime": "2006-01-05 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

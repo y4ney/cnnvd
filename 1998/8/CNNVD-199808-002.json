@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SNMP 安全漏洞",
+		"cnnvdCode": "CNNVD-199808-002",
+		"cveCode": "CVE-1999-0516",
+		"publishTime": "1998-08-01 00:00:00",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "SNMP存在安全漏洞，该漏洞源于SNMP的社区名可被推测。",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0516",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

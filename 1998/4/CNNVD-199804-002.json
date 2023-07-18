@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP OpenMail错误配置漏洞",
+		"cnnvdCode": "CNNVD-199804-002",
+		"cveCode": "CVE-1999-0551",
+		"publishTime": "1998-04-01 00:00:00",
+		"vendor": "1002341",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "HP OpenMail存在错误配置漏洞。用户利用恶意打印请求可以运行任意代码。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: HP\n名称: HPSBUX9804-078\n链接:http://www1.itrc.hp.com/service/cki/docDisplay.do?docId=HPSBUX9804-078",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

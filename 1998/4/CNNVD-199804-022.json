@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SIGINT，SIGIO ISC BIND符号链接漏洞",
+		"cnnvdCode": "CNNVD-199804-022",
+		"cveCode": "CVE-1999-1499",
+		"publishTime": "1998-04-10 00:00:00",
+		"vendor": "1002587",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "ISC BIND 4.9和8.1版本中的named存在漏洞。本地用户借助对（1）当根目录用一个SIGINT杀死进程的named_dump.db，或者（2）当使用SIGIOT的named.stats进行符号链接攻击摧毁文件。",
+		"affectedVendor": "ISC",
+		"referUrl": "来源: BID\n名称: 80\n链接:http://www.securityfocus.com/bid/80\n\n来源: BUGTRAQ\n名称: 19980410 BIND 4.9.7 named follows symlinks, clobbers anything\n链接:http://www.securityfocus.com/archive/1/8966",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

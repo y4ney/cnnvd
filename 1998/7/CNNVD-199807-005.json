@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "IRIX NetBSD错误信息漏洞",
+		"cnnvdCode": "CNNVD-199807-005",
+		"cveCode": "CVE-1999-1409",
+		"publishTime": "1998-07-03 00:00:00",
+		"vendor": "1003736",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "IRIX 6.2 和NetBSD 1.3.2及其早期版本的at程序中存在漏洞，本地用户通过提交文件到at程序带-f参数从而读取任意文件的部分内容，在通过电子邮件发送到用户时，会生成错误信息。",
+		"affectedVendor": "NetBSD",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980703 more about 'at'\n链接:http://www.shmoo.com/mail/bugtraq/jul98/msg00064.html\n\n来源: BID\n名称: 331\n链接:http://www.securityfocus.com/bid/331\n\n来源: XF\n名称: at-f-read-files(7577)\n链接:http://www.iss.net/security_center/static/7577.php\n\n来源: BUGTRAQ\n名称: 19980805 irix-6.2 \"at -f\" vulnerability\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90233906612929\u0026w=2\n\n来源: NETBSD\n名称: NetBSD-SA1998-004\n链接:ftp://ftp.NetBSD.ORG/pub/NetBSD/security/advisories/NetBSD-SA1998-004.txt.asc",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

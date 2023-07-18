@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Motorola CableRouter 漏洞",
+		"cnnvdCode": "CNNVD-199805-008",
+		"cveCode": "CVE-1999-0816",
+		"publishTime": "1998-05-10 00:00:00",
+		"vendor": "1003615",
+		"hazardLevel": 1,
+		"vulType": "未知",
+		"vulDesc": "Motorola CableRouter 存在漏洞。任何远程用户可以利用该漏洞连接并配置端口1024的路由。",
+		"affectedVendor": "摩托罗拉",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980510 Security Vulnerability in Motorola CableRouters\n链接:http://www.netspace.org/cgi-bin/wa?A2=ind9805B\u0026L=bugtraq\u0026P=R1621",
+		"updateTime": "2006-08-28 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

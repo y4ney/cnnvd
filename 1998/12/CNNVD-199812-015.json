@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Solaris passwd命令拒绝服务漏洞",
+		"cnnvdCode": "CNNVD-199812-015",
+		"cveCode": "CVE-1999-0188",
+		"publishTime": "1998-12-17 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "Solaris passwd命令可能导致服务拒绝。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: SUN\n名称: 00182\n链接:http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/182",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

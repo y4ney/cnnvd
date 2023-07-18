@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Microsoft IIS 3.0/4.0 ::$DATA请求泄露ASP源代码漏洞(MS98-003)",
+		"cnnvdCode": "CNNVD-199806-004",
+		"cveCode": "CVE-1999-0278",
+		"publishTime": "1998-06-01 00:00:00",
+		"isOfficial": 1,
+		"vendor": "1003485",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "IIS是一款Windows NT系统自带的的Web服务器软件，由Microsoft公司开发维护。\nIIS实现上存在一个问题，对于一个访问ASP文件的NTFS流的HTTP请求会直接返回ASP源代码，远程攻击者可以借此漏洞获取ASP页面的源代码而不是经过服务器解释执行后的页面。\nIIS在处理文件请求时会先判断文件扩展名是否在可执行文件扩展名列表中，如果在，则执行并返回结果，如果不在，则直接返回文件内容。NTFS文件系统支持在文件中包含额外的数据流。$DATA是在NTFS文件系统中存储数据流的属性。当我们对一个在NTFS分区中的ASP文件发出包含$DATA请求，IIS会检查最后一个\".\"后面的扩展名，因为多了\"::$DATA\"，结果IIS不认为这是一个ASP文件，而文件系统可以识别该请求，于是ASP的源代码被返回。",
+		"affectedVendor": "微软",
+		"referUrl": "来源: MS\n名称: MS98-003\n链接:http://www.microsoft.com/technet/security/bulletin/ms98-003.mspx\n\n来源: US Government Resource: oval:org.mitre.oval:def:913\n名称: oval:org.mitre.oval:def:913\n链接:http://oval.mitre.org/repository/data/getDef?id=oval:org.mitre.oval:def:913",
+		"patch": "http://www.microsoft.com/technet/security/bulletin/MS98-003.asp\" target=\"_blank\"\u003e",
+		"updateTime": "2005-10-12 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

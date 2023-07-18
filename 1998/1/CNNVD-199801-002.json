@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Netscape FastTrack Web server列出文件漏洞",
+		"cnnvdCode": "CNNVD-199801-002",
+		"cveCode": "CVE-1999-0239",
+		"publishTime": "1998-01-01 00:00:00",
+		"vendor": "1003764",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Netscape FastTrack Web server在一条小写的\"get\"命令被用作代替大写的GET时列出文件。",
+		"affectedVendor": "Netscape",
+		"referUrl": "来源: OSVDB\n名称: 122\n链接:http://www.osvdb.org/122",
+		"updateTime": "2005-10-12 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

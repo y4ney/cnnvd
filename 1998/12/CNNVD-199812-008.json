@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SCO UnixWare 'uidadmin'漏洞",
+		"cnnvdCode": "CNNVD-199812-008",
+		"cveCode": "CVE-1999-0836",
+		"publishTime": "1998-12-02 00:00:00",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "UnixWare uidadmin存在漏洞。本地用户借助一个符号链接攻击可以修改任意文件。",
+		"affectedVendor": "sco",
+		"referUrl": "来源: BUGTRAQ\n名称: 19991202 UnixWare 7 uidadmin exploit + discussion\n链接:http://www.securityfocus.com/templates/archive.pike?list=1\u0026msg=19991202160111.20553.qmail@nwcst282.netaddress.usa.net\n\n来源: BID\n名称: 842\n链接:http://www.securityfocus.com/bid/842\n\n来源: SCO\n名称: SB-99.22a\n链接:ftp://ftp.sco.com/SSE/security_bulletins/SB-99.22a",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

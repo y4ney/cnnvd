@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Qualcomm QPopper多个命令远程缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199807-013",
+		"cveCode": "CVE-1999-0006",
+		"publishTime": "1998-06-27 00:00:00",
+		"isOfficial": 1,
+		"vendor": "1004485",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "QPopper是一款由Qualcomm开发和维护免费开放源代码的软件，可使用在多种Linux和Unix操作系统下。\n2.5版本以前的qpopper存在许多缓冲区溢出漏洞，远程攻击者可以利用这些漏洞通过溢出攻击在受影响主机执行任意指令。\n漏洞存在于qpopper没有正确检查过滤用户输入的POP命令(包括USER、PASS)，如果参数超过1024字节就会产生缓冲区溢出。这个漏洞在Bugtraq被广泛的讨论，已经有基于Linux和*BSD系统的攻击程序。\n确认主机是否受影响，可以使用下面的命令：\n% telnet yourmailhost.your.domain.com 110\nTrying 123.123.123.123\nConnected to mailhost\n+OK QPOP (version 2.4) at yourmailhost.your.domain.com starting\n如果返回的版本是2.5以前(包括2.5 beta)，那么说明你的主机受影响，请尽快升级到最新版本。",
+		"affectedVendor": "高通",
+		"referUrl": "来源: BID\n名称: 133\n链接:http://www.securityfocus.com/bid/133\n\n来源: SGI\n名称: 19980801-01-I\n链接:ftp://patches.sgi.com/support/free/security/advisories/19980801-01-I",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

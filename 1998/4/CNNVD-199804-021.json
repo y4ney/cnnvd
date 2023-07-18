@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "IRIX NetWare Client ipxlink，ipxchk权限许可和访问控制漏洞",
+		"cnnvdCode": "CNNVD-199804-021",
+		"cveCode": "CVE-1999-1040",
+		"publishTime": "1998-04-08 00:00:00",
+		"vendor": "1004938",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "IRIX 6.3和6.4版本的IRIX NetWare Client 1.0版本中的（1）ipxchk和（2）ipxlink存在漏洞。本地用户可以通过一个修改的IFS环境变量访问根目录。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源: CIAC\n名称: I-055\n链接:http://ciac.llnl.gov/ciac/bulletins/i-055.shtml\n\n来源: SGI\n名称: 19980501-01-P\n链接:ftp://patches.sgi.com/support/free/security/advisories/19980501-01-P2869\n\n来源: BUGTRAQ\n名称: 19980408 SGI O2 ipx security issue\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=89217373930054\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

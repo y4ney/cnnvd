@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP-UX SharedX recserv程序服务决绝漏洞",
+		"cnnvdCode": "CNNVD-199809-007",
+		"cveCode": "CVE-1999-0779",
+		"publishTime": "1998-09-03 00:00:00",
+		"vendor": "1002341",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "HP-UX SharedX recserv程序存在服务拒绝漏洞。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: HP\n名称: HPSBUX9810-086\n链接:http://www1.itrc.hp.com/service/cki/docDisplay.do?docId=HPSBUX9810-086",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

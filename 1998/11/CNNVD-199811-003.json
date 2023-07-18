@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "BMC Patrol符号链接漏洞",
+		"cnnvdCode": "CNNVD-199811-003",
+		"cveCode": "CVE-1999-1459",
+		"publishTime": "1998-11-02 00:00:00",
+		"vendor": "1000760",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "BMC PATROL Agent 3.2.07之前的版本存在漏洞。本地用户借助一个临时文件上的符号链接攻击，可以获取根权限。",
+		"affectedVendor": "BMC",
+		"referUrl": "来源: XF\n名称: bmc-patrol-file-create(1388)\n链接:http://xforce.iss.net/static/1388.php\n\n来源: ISS\n名称: 19981102 BMC PATROL File Creation Vulnerability\n链接:http://xforce.iss.net/alerts/advise10.php\n\n来源: BID\n名称: 534\n链接:http://www.securityfocus.com/bid/534",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

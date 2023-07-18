@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Digital UNIX  Advanced File System Utility (advfs)权限许可和访问控制漏洞。",
+		"cnnvdCode": "CNNVD-199805-005",
+		"cveCode": "CVE-1999-1044",
+		"publishTime": "1998-05-07 00:00:00",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "Digital UNIX中的Advanced File System Utility (advfs)存在漏洞。本地用户可以利用该漏洞获得权限。",
+		"affectedVendor": "digital",
+		"referUrl": "来源: CIAC\n名称: I-050\n链接:http://ciac.llnl.gov/ciac/bulletins/i-050.shtml\n\n来源: XF\n名称: dgux-advfs-softlinks(7431)\n链接:http://www.iss.net/security_center/static/7431.php",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

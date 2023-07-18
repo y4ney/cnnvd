@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP JetAdmin符号链接漏洞",
+		"cnnvdCode": "CNNVD-199807-016",
+		"cveCode": "CVE-1999-1433",
+		"publishTime": "1998-07-15 00:00:00",
+		"vendor": "1002341",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Solaris的HP JetAdmin D.01.09中存在漏洞，本地用户借助/tmp/jetadmin.log文件中的符号连接攻击改变任意文件的许可权限。",
+		"affectedVendor": "惠普",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980722 Re: JetAdmin software\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221104526067\u0026w=2\n\n来源: BUGTRAQ\n名称: 19980715 JetAdmin software\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221104525988\u0026w=2\n\n来源: BID\n名称: 157\n链接:http://www.securityfocus.com/bid/157",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

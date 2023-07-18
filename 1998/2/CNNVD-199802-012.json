@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "NetXRay web-admin工具缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199802-012",
+		"cveCode": "CVE-1999-1207",
+		"publishTime": "1998-02-18 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "缓冲区溢出",
+		"vulDesc": "NetXRay 2.6版本中的web-admin工具存在缓冲区溢出漏洞。远程攻击者通过长HTTP请求导致服务拒绝，并且可能执行任意命令。",
+		"affectedVendor": "network_general",
+		"referUrl": "来源: XF\n名称: netxray-bo(907)\n链接:http://xforce.iss.net/static/907.php\n\n来源: www.efri.hr\n链接:http://www.efri.hr/~crv/security/bugs/NT/netxtray.html",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区溢出"
+	}
+}

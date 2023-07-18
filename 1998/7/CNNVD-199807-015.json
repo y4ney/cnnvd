@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "OpenWindows cmdtool和SunOS Xview L2/AGAIN密钥显示unechoed字符漏洞",
+		"cnnvdCode": "CNNVD-199807-015",
+		"cveCode": "CVE-1999-1297",
+		"publishTime": "1998-07-15 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "OpenWindows 3.0版本的cmdtool和SunOS 4.1.4的XView 3.0及其早期版本中存在漏洞，具有物理访问系统权限的攻击者通过L2/AGAIN密钥显示unechoed字符（比如那些来自于密码提示的字符）。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: XF\n名称: sun-cmdtool-echo(7482)\n链接:http://xforce.iss.net/static/7482.php\n\n来源: SUNBUG\n名称: 1077164\n链接:http://sunsolve.sun.com/pub-cgi/retrieve.pl?doc=fpatches%2F100452\u0026zone_32=10045%2A%20",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

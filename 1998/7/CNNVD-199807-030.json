@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "RedHat 5.1 dumpreg漏洞",
+		"cnnvdCode": "CNNVD-199807-030",
+		"cveCode": "CVE-1999-1406",
+		"publishTime": "1998-07-29 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "设计错误",
+		"vulDesc": "Red Hat Linux 5.1版本中的dumpreg打开带有O_RDWR使用权的/dev/mem，本地用户通过将fd 1 (stdout)重定向到内核导致服务拒绝（崩溃）。",
+		"affectedVendor": "redhat",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980729 Crash a redhat 5.1 linux box\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221104526185\u0026w=2\n\n来源: BID\n名称: 372\n链接:http://www.securityfocus.com/bid/372\n\n来源: BUGTRAQ\n名称: 19980730 FD's 0..2 and suid/sgid procs (Was: Crash a redhat 5.1 linux box)\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221104526192\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "设计错误"
+	}
+}

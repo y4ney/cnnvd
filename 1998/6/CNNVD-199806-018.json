@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Tiger覆盖任意文件漏洞",
+		"cnnvdCode": "CNNVD-199806-018",
+		"cveCode": "CVE-1999-1038",
+		"publishTime": "1998-06-26 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Tiger 2.2.3版本存在漏洞，本地用户借助在Tiger中的默认工作目录的各种临时文件中的符号连接覆盖任意文件，在WORKDIR变量中定义了这些目录。",
+		"affectedVendor": "tamu",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980626 vulnerability in satan, cops \u0026 tiger\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221103125976\u0026w=2",
+		"updateTime": "2006-09-22 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

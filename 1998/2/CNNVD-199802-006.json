@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "War FTPD USER/PASS命令超长参数缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199802-006",
+		"cveCode": "CVE-1999-0256",
+		"publishTime": "1998-02-01 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "War FTP Daemon（warftpd）是一款用于Windows平台中的免费FTP服务器，它支持多重连接、用户权限设置和磁盘配额限制等。\nWar FTPD在处理带有超长参数的USER/PASS命令时存在缓冲区漏洞，远程攻击者可能利用此漏洞在服务器上执行任意指令从而控制服务器。\n\u003c**\u003e",
+		"affectedVendor": "jgaa",
+		"referUrl": "来源: OSVDB\n名称: 875\n链接:http://www.osvdb.org/875",
+		"patch": "http://www.jgaa.com/warftpd.htm\" target=\"_blank\"\u003e",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

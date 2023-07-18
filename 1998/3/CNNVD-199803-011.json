@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "AIX Internet超级服务器",
+		"cnnvdCode": "CNNVD-199803-011",
+		"cveCode": "CVE-1999-1075",
+		"publishTime": "1998-03-18 00:00:00",
+		"vendor": "1002387",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "AIX 4.1.5版本的Internet超级服务器在打开ttdbserver (ToolTalk服务)时动态分配一个N端口，但也会在没有ttdbserve通过控制下错误分配N-1端口，远程攻击者可以通过过多对N-1端口的连接导致服务拒绝，最终不正确关闭。",
+		"affectedVendor": "国际商业机器",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980318 AIX 4.1.5 DoS attack (aka \"Port 1025 problem\")\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=89025820612530\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

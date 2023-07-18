@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "OpenBSD 根使用权许可漏洞",
+		"cnnvdCode": "CNNVD-199808-007",
+		"cveCode": "CVE-1999-0062",
+		"publishTime": "1998-08-03 00:00:00",
+		"vendor": "1003997",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "OpenBSD中的chpass命令存在漏洞。本地用户通过文件说明符泄露来获得根使用权。",
+		"affectedVendor": "OpenBSD",
+		"referUrl": "来源: OSVDB\n名称: 7559\n链接:http://www.osvdb.org/7559",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

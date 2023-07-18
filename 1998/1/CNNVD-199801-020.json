@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Miva htmlscript 安全漏洞",
+		"cnnvdCode": "CNNVD-199801-020",
+		"cveCode": "CVE-1999-0264",
+		"publishTime": "1998-01-27 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Miva htmlscript存在安全漏洞，远程攻击者可以利用此漏洞以Web服务进程的权限查看主机上的任意文件。htmlscript2.99x或者更早版本，由于脚本没有过滤用户输入中可能夹带的\"../\"字串，远程攻击者可能以httpd进程的权限来遍历主机上的目录，察看任意有权限读取的文件，如用以下的URL可以读取系统的passwd文件：http://www.vulnerable.server.com/cgi-bin/htmlscript?../../../../etc/passwd",
+		"affectedVendor": "miva",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0264",
+		"patch": "http://www.miva.com/\" target=\"_blank\"\u003e",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

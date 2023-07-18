@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Solaris ndd服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199803-009",
+		"cveCode": "CVE-1999-1118",
+		"publishTime": "1998-03-11 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Solaris 2.6版本的ndd存在漏洞。本地用户可以通过修改某个TCP/IP参数导致服务拒绝。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: XF\n名称: sun-ndd(817)\n链接:http://xforce.iss.net/static/817.php\n\n来源: BID\n名称: 433\n链接:http://www.securityfocus.com/bid/433\n\n来源: SUN\n名称: 00165\n链接:http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/165\u0026type=0\u0026nav=sec.sba",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

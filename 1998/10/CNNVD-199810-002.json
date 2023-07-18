@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Solaris SNMP默认共同体串后门访问漏洞",
+		"cnnvdCode": "CNNVD-199810-002",
+		"cveCode": "CVE-1999-0186",
+		"publishTime": "1998-10-01 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Solstice Enterprise Agents (SEA)是运行于Sun Solaris系统上的管理程序，它支持SNMP和DMI协议。\nSun SNMP子代理存在一个默认的共同体串，远程攻击者可以利用其来获取对系统的非法访问。\nSun SNMP子代理允许远程攻击者使用一个默认的\"all private\"共同体串访问系统，修改系统参数或在主机上以root用户权限执行任意命令。SEA软件的1.0.1版本是与Solaris 2.6系统绑定发布的。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: support.novell.com\n链接:http://support.novell.com/cgi-bin/search/searchtid.cgi?/10080762.htm",
+		"patch": "http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/178\u0026type=0\u0026nav=sec.sba\" target=\"_blank\"\u003e",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

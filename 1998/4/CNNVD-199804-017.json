@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "BIND服务拒绝漏洞",
+		"cnnvdCode": "CNNVD-199804-017",
+		"cveCode": "CVE-1999-0010",
+		"publishTime": "1998-04-08 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "BIND 8 Releases恶意格式化DNS信息，导致服务拒绝漏洞。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: HP\n名称: HPSBUX9808-083\n链接:http://www1.itrc.hp.com/service/cki/docDisplay.do?docId=HPSBUX9808-083\n\n来源: SGI\n名称: 19980603-01-PX\n链接:ftp://patches.sgi.com/support/free/security/advisories/19980603-01-PX",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

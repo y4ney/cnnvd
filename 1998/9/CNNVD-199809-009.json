@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "bash缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199809-009",
+		"cveCode": "CVE-1999-1048",
+		"publishTime": "1998-09-05 00:00:00",
+		"vendor": "1001333",
+		"hazardLevel": 3,
+		"vulType": "缓冲区溢出",
+		"vulDesc": "bash 2.0.0版本、1.4.17版本及其他版本存在缓冲区溢出漏洞。本地攻击者可以通过创建一个极大目录名称来获得根特权，该目录名称通过PS1环境变量中的\\w选项在另一个用户兑换该目录时被插入到密码提示符中。",
+		"affectedVendor": "Debian",
+		"referUrl": "来源: XF\n名称: linux-bash-bo(3414)\n链接:http://xforce.iss.net/static/3414.php\n\n来源: DEBIAN\n名称: 19980909 problem with very long pathnames\n链接:http://www.debian.org/security/1998/19980909\n\n来源: BUGTRAQ\n名称: 19980905 BASH buffer overflow, LiNUX x86 exploit\n链接:http://www.securityfocus.com/archive/1/10542\n\n来源: BUGTRAQ\n名称: 19970821 Buffer overflow in /bin/bash\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=87602746719555\u0026w=2\n\n来源: OSVDB\n名称: 8345\n链接:http://www.osvdb.org/8345",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "缓冲区溢出"
+	}
+}

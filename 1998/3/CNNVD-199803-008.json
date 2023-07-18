@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "RedHat dhcp符号链接漏洞",
+		"cnnvdCode": "CNNVD-199803-008",
+		"cveCode": "CVE-1999-1407",
+		"publishTime": "1998-03-09 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "ifdhcpc-doneRed Hat Linux 5版本的DHCP配置的ifdhcpc-done脚本存在漏洞。本地用户可以通过dhcplog文件的符号链接攻击在任意文件后添加文本。",
+		"affectedVendor": "redhat",
+		"referUrl": "来源: www.redhat.com\n链接:http://www.redhat.com/support/errata/rh50-errata-general.html#initscripts\n\n来源: BUGTRAQ\n名称: 19980309 *sigh* another RH5 /tmp problem\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88950856416985\u0026w=2\n\n来源: BID\n名称: 368\n链接:http://www.securityfocus.com/bid/368\n\n来源: XF\n名称: initscripts-ifdhcpdone-dhcplog-symlink(7294)\n链接:http://www.iss.net/security_center/static/7294.php",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "万维网授权网关漏洞",
+		"cnnvdCode": "CNNVD-199807-008",
+		"cveCode": "CVE-1999-1436",
+		"publishTime": "1998-07-08 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "输入验证",
+		"vulDesc": "Ray Chan WWW Authorization Gateway 0.1 CGI程序中存在漏洞，远程攻击者借助在\"user\"参数中的shell元字符执行任意命令。",
+		"affectedVendor": "ray_chan",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980708 WWW Authorization Gateway\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221104525905\u0026w=2\n\n来源: BID\n名称: 152\n链接:http://www.securityfocus.com/bid/152",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "输入验证"
+	}
+}

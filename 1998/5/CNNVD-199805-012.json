@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "eman.sh CGI脚本执行任意命令漏洞",
+		"cnnvdCode": "CNNVD-199805-012",
+		"cveCode": "CVE-1999-1179",
+		"publishTime": "1998-05-15 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "包括在SysAdmin Magazine的May 1998问题之中的eman.sh CGI脚本中存在漏洞。远程攻击者利用该漏洞执行任意命令。",
+		"affectedVendor": "sysadmin_magazine",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980515 May SysAdmin man.sh security hole\n链接:http://www.securityfocus.com/archive/1/9330",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

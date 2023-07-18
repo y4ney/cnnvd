@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "NT SQL服务器密码漏洞",
+		"cnnvdCode": "CNNVD-199806-023",
+		"cveCode": "CVE-1999-1556",
+		"publishTime": "1998-06-29 00:00:00",
+		"vendor": "1003485",
+		"hazardLevel": 2,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Microsoft SQL Server 6.5对SQLExecutiveCmdExec账户使用弱加密并且将账户存储于注册表的访问部分，本地用户通过读取和解密CmdExecAccount的值获取特权。",
+		"affectedVendor": "微软",
+		"referUrl": "来源: XF\n名称: mssql-sqlexecutivecmdexec-password(7354)\n链接:http://xforce.iss.net/xforce/xfdb/7354\n\n来源: BID\n名称: 109\n链接:http://www.securityfocus.com/bid/109\n\n来源: NTBUGTRAQ\n名称: 19980629 MS SQL Server 6.5 stores password in unprotected registry keys\n链接:http://marc.theaimsgroup.com/?l=ntbugtraq\u0026m=90222453431645\u0026w=2",
+		"updateTime": "2006-09-01 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

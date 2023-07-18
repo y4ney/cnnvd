@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "多种调制解调器缺少防护时间漏洞",
+		"cnnvdCode": "CNNVD-199809-015",
+		"cveCode": "CVE-1999-1228",
+		"publishTime": "1998-09-27 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "多种调制解调器存在漏洞。它们不能实现一段防护时间，或者被配置了一个等于零的防护时间。远程攻击者可以通过一个出现在ICMP数据包、电子邮件主题、IRC命令及其他中的\"+++\"序列，执行任意调制解调器命令，例如：ATH、ATH0等。",
+		"affectedVendor": "us_robotics",
+		"referUrl": "来源: XF\n名称: global-village-modem-dos(3320)\n链接:http://xforce.iss.net/static/3320.php\n\n来源: BUGTRAQ\n名称: 19980927 1+2=3, +++ATH0=Old school DoS\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90695973308453\u0026w=2\n\n来源: www.macintouch.com\n链接:http://www.macintouch.com/modemsecurity.html",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

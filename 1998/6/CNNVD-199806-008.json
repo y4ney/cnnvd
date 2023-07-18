@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "多家厂商NIS+远程缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199806-008",
+		"cveCode": "CVE-1999-0008",
+		"publishTime": "1998-06-08 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 1,
+		"vulType": "未知",
+		"vulDesc": "NIS+和NIS被设计用来对分布于网络上的多个主机上用户、机器和其它信息资源进行集中化的管理。NIS+是NIS的替代产品。\n某些版本的NIS+系统实现上存在一个缓冲区溢出漏洞，远程攻击者可能利用此漏洞通过溢出攻击在主机上以root用户的权限执行任意指令。\n根据主机的配置情况，远程攻击者可能取得主机的root用户权限或对主机造成拒绝服务攻击，这导致所有依靠NIS+的系统失去可用性。另外，如果NIS+运行了NIS兼容模式，攻击者利用此漏洞使NIS+主机崩溃以后，可以冒充NIS服务器取得所有依靠NIS进行认证的主机的访问权限。\nrpc.nisd程序是NIS+服务的实现，一般情况下，发往此RPC服务的数据有个明确的最大长度，这样不会导致缓冲区溢出。但有一个NIS+参数：nis_name没有指定的最大长度，这种情况下最大长度默认为一个不安全的值，因为NIS+把数据复制到一个定长的缓冲区中，远程攻击者可以破坏堆栈执行攻击者指定的任意指令。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: SUN\n名称: 00170\n链接:http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/170",
+		"patch": "http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/170\u0026type=0\u0026nav=sec.sba\" target=\"_blank\"\u003e",
+		"updateTime": "2006-11-16 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

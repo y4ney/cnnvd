@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Hylafax Faxsurvey远程命令执行漏洞",
+		"cnnvdCode": "CNNVD-199808-008",
+		"cveCode": "CVE-1999-0262",
+		"publishTime": "1998-08-04 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "输入验证",
+		"vulDesc": "运行于Linux上的Hylafax faxsurvey CGI脚本存在漏洞。远程攻击者可以借助查询字符串中的shell元字符执行任意命令。",
+		"affectedVendor": "renaud_deraison",
+		"referUrl": "来源: XF\n名称: http-cgi-faxsurvey(1532)\n链接:http://xforce.iss.net/xforce/xfdb/1532\n\n来源: BID\n名称: 2056\n链接:http://www.securityfocus.com/bid/2056",
+		"updateTime": "2006-11-16 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "输入验证"
+	}
+}

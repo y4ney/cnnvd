@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "On-Line Customer Registration权限许可漏洞",
+		"cnnvdCode": "CNNVD-199809-017",
+		"cveCode": "CVE-1999-1181",
+		"publishTime": "1998-09-29 00:00:00",
+		"vendor": "1004938",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "适合于IRIX 6.2到6.4版本的On-Line Customer Registration软件存在漏洞。本地用户借助该漏洞获得根特权。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源: CIAC\n名称: J-003\n链接:http://ciac.llnl.gov/ciac/bulletins/j-003.shtml\n\n来源: SGI\n名称: 19980901-01-PX\n链接:ftp://patches.sgi.com/support/free/security/advisories/19980901-01-PX\n\n来源: XF\n名称: irix-register(7441)\n链接:http://www.iss.net/security_center/static/7441.php",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

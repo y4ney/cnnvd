@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "sudo命令执行漏洞",
+		"cnnvdCode": "CNNVD-199801-014",
+		"cveCode": "CVE-1999-0958",
+		"publishTime": "1998-01-12 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "sudo 1.5.x版本存在漏洞。本地用户借助一个.. (点点)攻击执行任意命令。",
+		"affectedVendor": "todd_miller",
+		"referUrl": "来源: BUGTRAQ\n名称: 19980112 Re: hole in sudo for MP-RAS.\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88465708614896\u0026w=2",
+		"updateTime": "2006-09-05 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

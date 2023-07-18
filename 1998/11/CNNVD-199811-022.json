@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Excite for Web Servers (EWS)加密错误漏洞",
+		"cnnvdCode": "CNNVD-199811-022",
+		"cveCode": "CVE-1999-1073",
+		"publishTime": "1998-11-30 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "Excite for Web Servers (EWS) 1.1将明文密码的前两个字符存储于加密密码的开始，使得攻击者更容易借助暴力方法或字典攻击猜测密码。",
+		"affectedVendor": "excite",
+		"referUrl": "来源: BUGTRAQ\n名称: 19981130 Security bugs in Excite for Web Servers 1.1\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=91248445931140\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

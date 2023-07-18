@@ -1,0 +1,18 @@
+{
+	"cnnvdDetail": {
+		"vulName": "SGI's Performer API Search Tool (performer_tools) pfdispaly.cgi目录遍历漏洞",
+		"cnnvdCode": "CNNVD-199804-008",
+		"cveCode": "CVE-1999-0270",
+		"publishTime": "1998-04-03 00:00:00",
+		"vendor": "1004938",
+		"hazardLevel": 4,
+		"vulType": "路径遍历",
+		"vulTypeName": "路径遍历",
+		"vulDesc": "SGI's Performer API Search Tool的(performer_tools)pfdispaly.cgi程序（有时被称为\"pfdisplay\"）存在目录遍历漏洞。远程攻击者可以利用该漏洞读任意文件。",
+		"affectedVendor": "硅谷图形",
+		"referUrl": "来源: XF\n名称: sgi-pfdispaly(810)\n链接:http://xforce.iss.net/xforce/xfdb/810\n\n来源: BID\n名称: 64\n链接:http://www.securityfocus.com/bid/64\n\n来源: OSVDB\n名称: 134\n链接:http://www.osvdb.org/134\n\n来源: CIAC\n名称: I-041\n链接:http://www.ciac.org/ciac/bulletins/i-041.shtml\n\n来源: CIAC\n名称: I-041\n链接:http://ciac.llnl.gov/ciac/bulletins/i-041.shtml\n\n来源: SGI\n名称: 19980401-01-P\n链接:ftp://patches.sgi.com/support/free/security/advisories/19980401-01-P",
+		"updateTime": "2006-11-16 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "路径遍历"
+	}
+}

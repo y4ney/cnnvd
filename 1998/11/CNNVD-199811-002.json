@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "HP OpenView 安全漏洞",
+		"cnnvdCode": "CNNVD-199811-002",
+		"cveCode": "CVE-1999-0254",
+		"publishTime": "1998-11-02 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "HP OpenView存在安全漏洞，该漏洞源于HP OpenView包含隐藏的SNMP共同体串，远程攻击者可以利用这个漏洞未授权访问部分SNMP变量。HP OpenView 4.x和5.x的管理代理端存在隐藏的SNMP共同体串，此读写共同体体串可以允许未授权访问部分SNMP变量，也可以修改MIB变量以更改网络拓扑。",
+		"affectedVendor": "sun",
+		"referUrl": "来源:MISC\r\n链接:https://exchange.xforce.ibmcloud.com/vulnerabilities/CVE-1999-0254",
+		"patch": "http://itrc.hp.com\" target=\"_blank\"\u003e",
+		"updateTime": "2022-08-18 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "University of Washington imapd远程缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199807-024",
+		"cveCode": "CVE-1999-0005",
+		"publishTime": "1998-06-17 00:00:00",
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "University of Washington imapd是一种Internet邮件接收协议的开放源码的实现。\r\n通过身份验证命令中的IMAP缓冲区溢出，执行任意命令。",
+		"affectedVendor": "university_of_washington",
+		"referUrl": "来源: BID\r\n名称: 130\r\n链接:http://www.securityfocus.com/bid/130\r\n\r\n来源: SUN\r\n名称: 00177\r\n链接:http://sunsolve.sun.com/pub-cgi/retrieve.pl?doctype=coll\u0026doc=secbull/177",
+		"updateTime": "2012-11-28 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Sambar Server获取有关服务器的敏感信息漏洞",
+		"cnnvdCode": "CNNVD-199806-009",
+		"cveCode": "CVE-1999-1178",
+		"publishTime": "1998-06-10 00:00:00",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "Sambar Server 4.1版本中存在漏洞，远程攻击者借助dumpenv.pl脚本的HTTP请求获取有关服务器的敏感信息。",
+		"affectedVendor": "sambar",
+		"referUrl": "来源: XF\n名称: sambar-dump-env(3223)\n链接:http://xforce.iss.net/static/3223.php\n\n来源: BUGTRAQ\n名称: 19980610 Sambar Server Beta BUG..\n链接:http://www.securityfocus.com/archive/1/9505",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"cnnvdDetail": {
+		"vulName": "多家厂商CDE ToolTalk数据库服务器rpc.ttdbserverd远程缓冲区溢出漏洞",
+		"cnnvdCode": "CNNVD-199804-004",
+		"cveCode": "CVE-1999-0003",
+		"publishTime": "1998-04-01 00:00:00",
+		"isOfficial": 1,
+		"hazardLevel": 1,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "Common Desktop Environment (CDE)是一款集成图形用户接口，运行在各种UNIX和LINUX操作系统下，CDE ToolTalk服务允许独立的开发应用程序，使应用程序可以跨主机和平台交换ToolTalk信息相互之间通信，使用ToolTalk服务，应用程序可以建立开放协议允许各种程序进行交换和新的程序插入到系统中可以尽可能最小化重新配置。ToolTalk RPC数据库服务程序，rpc.ttdbserverd用于管理ToolTalk应用通信。很多Unix系统厂商默认都安装了CDE。\nToolTalk数据库服务的一个执行错误可以使远程攻击者在支持ToolTalk服务的主机上以超级用户的权限运行任意指令。\n在ToolTalk数据库服务发生执行错误的时候，远程客户端发送一个恶意的RPC消息可能引起一个堆变量的溢出，执行恶意RPC消息里的任意指令，从而获得主机的root用户权限。\n\u003c*链接：http://online.securityfocus.com/advisories/281\n        http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90461590528287\u0026w=2\n        http://www.cert.org/advisories/CA-1998-11.html\n        ftp://patches.sgi.com/support/free/security/advisories/19981101-01-P\n        ftp://patches.sgi.com/support/free/security/advisories/20020302-01-A\n*\u003e",
+		"affectedVendor": "sun",
+		"referUrl": "来源: BID\n名称: 122\n链接:http://www.securityfocus.com/bid/122\n\n来源: SGI\n名称: 19981101-01-PX\n链接:ftp://patches.sgi.com/support/free/security/advisories/19981101-01-PX\n\n来源: SGI\n名称: 19981101-01-A\n链接:ftp://patches.sgi.com/support/free/security/advisories/19981101-01-A",
+		"patch": "http://www.ers.ibm.com/\" target=\"_blank\"\u003e",
+		"updateTime": "2006-11-16 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}

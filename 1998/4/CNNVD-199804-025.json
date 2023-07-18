@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Solaris rpc.mountd 漏洞",
+		"cnnvdCode": "CNNVD-199804-025",
+		"cveCode": "CVE-1999-0212",
+		"publishTime": "1998-04-29 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "Solaris rpc.mountd产生错误信息，远程攻击者可以利用该漏洞判断服务器上有何文件。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: CIAC\n名称: I-048\n链接:http://www.ciac.org/ciac/bulletins/i-048.shtml",
+		"updateTime": "2007-07-13 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

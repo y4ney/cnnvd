@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Samba信息泄露及修改和权限提升漏洞",
+		"cnnvdCode": "CNNVD-199811-018",
+		"cveCode": "CVE-1999-1288",
+		"publishTime": "1998-11-19 00:00:00",
+		"vendor": "1000868",
+		"hazardLevel": 3,
+		"vulType": "未知",
+		"vulDesc": "Samba 1.9.18无意包含一个原型应用，wsmbconf，导致其安装后带有不正确权限包括setgid bit，本地用户可以利用该漏洞读取写入文件以及获取权限。",
+		"affectedVendor": "Caldera",
+		"referUrl": "来源: XF\n名称: samba-wsmbconf(1406)\n链接:http://xforce.iss.net/static/1406.php\n\n来源: CALDERA\n名称: SA-1998.35\n链接:http://www.caldera.com/support/security/advisories/SA-1998.35.txt\n\n来源: BUGTRAQ\n名称: 19981119 Vulnerability in Samba on RedHat, Caldera and PHT TurboLinux\n链接:http://www.securityfocus.com/archive/1/11397",
+		"updateTime": "2006-09-21 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

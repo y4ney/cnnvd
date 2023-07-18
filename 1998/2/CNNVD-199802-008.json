@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "KDE beta 3重写任意文件漏洞",
+		"cnnvdCode": "CNNVD-199802-008",
+		"cveCode": "CVE-1999-1269",
+		"publishTime": "1998-02-06 00:00:00",
+		"vendor": "1002864",
+		"hazardLevel": 4,
+		"vulType": "未知",
+		"vulDesc": "KDE beta 3版本中的屏幕保护程序存在漏洞。本地用户借助对于.kss.pid文件的符号连接攻击重写任意文件。",
+		"affectedVendor": "KDE",
+		"referUrl": "来源: XF\n名称: kde-kss-file-clobber(1641)\n链接:http://xforce.iss.net/static/1641.php\n\n来源: BUGTRAQ\n名称: 19980206 serious security hole in KDE Beta 3\n链接:http://www.securityfocus.com/archive/1/8506",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

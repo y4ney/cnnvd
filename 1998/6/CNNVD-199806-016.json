@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "AMD K6 Processor 漏洞",
+		"cnnvdCode": "CNNVD-199806-016",
+		"cveCode": "CVE-1999-1442",
+		"publishTime": "1998-06-22 00:00:00",
+		"vendor": "1003118",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "基于Linux 2.0.x和2.1.x kernels的AMD K6 processor中的存在Bug，本地用户借助一个特定的指令序列导致服务拒绝（崩溃），该序列可能与外部的访问地址段有关。",
+		"affectedVendor": "Linux",
+		"referUrl": "来源: BID\n名称: 105\n链接:http://www.securityfocus.com/bid/105\n\n来源: www.cs.helsinki.fi\n链接:http://www.cs.helsinki.fi/linux/linux-kernel/Year-1998/1998-25/0816.html\n\n来源: uwsg.iu.edu\n链接:http://uwsg.iu.edu/hypermail/linux/kernel/9805.3/0855.html",
+		"updateTime": "2007-05-16 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

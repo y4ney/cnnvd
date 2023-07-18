@@ -1,0 +1,16 @@
+{
+	"cnnvdDetail": {
+		"vulName": "Solaris admintool漏洞",
+		"cnnvdCode": "CNNVD-199805-004",
+		"cveCode": "CVE-1999-1027",
+		"publishTime": "1998-05-07 00:00:00",
+		"hazardLevel": 2,
+		"vulType": "未知",
+		"vulDesc": "Solaris 2.6版本的HW3/98安装全域可写许可的admintool时存在漏洞。本地用户通过替换一个木马程序获得权限。",
+		"affectedVendor": "sun",
+		"referUrl": "来源: BID\n名称: 290\n链接:http://www.securityfocus.com/bid/290\n\n来源: BUGTRAQ\n名称: 19980507 admintool mode 0777 in Solaris 2.6 HW3/98\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=90221101925880\u0026w=2\n\n来源: XF\n名称: solaris-admintool-world-writable(7296)\n链接:http://xforce.iss.net/static/7296.php",
+		"updateTime": "2005-05-02 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "未知"
+	}
+}

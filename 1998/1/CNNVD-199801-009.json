@@ -1,0 +1,17 @@
+{
+	"cnnvdDetail": {
+		"vulName": "GCC 2.7.2符号连接漏洞",
+		"cnnvdCode": "CNNVD-199801-009",
+		"cveCode": "CVE-1999-1439",
+		"publishTime": "1998-01-02 00:00:00",
+		"hazardLevel": 4,
+		"vulType": "其他",
+		"vulTypeName": "其他",
+		"vulDesc": "gcc 2.7.2存在漏洞，本地用户借助对暂时的 .i、.s、或 .o文件的符号连接攻击来重写任意文件。",
+		"affectedVendor": "gcc",
+		"referUrl": "来源: BID\n名称: 146\n链接:http://www.securityfocus.com/bid/146\n\n来源: BUGTRAQ\n名称: 19980108 GCC Exploit\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88524071002939\u0026w=2\n\n来源: BUGTRAQ\n名称: 19980115 GCC 2.7.? /tmp files\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88492937727193\u0026w=2\n\n来源: BUGTRAQ\n名称: 19980102 Symlink bug with GCC 2.7.2\n链接:http://marc.theaimsgroup.com/?l=bugtraq\u0026m=88419592307388\u0026w=2",
+		"updateTime": "2005-10-20 00:00:00",
+		"cnnvdFiledShow": "vul_name,cnnvd_code,_code,publish_time,is_official,vendor,hazard_level,vul_type,vul_desc,affected_product,affected_vendor,product_desc,affected_system,refer_url,patch_id,product,update_time,patch",
+		"varchar1": "其他"
+	}
+}
